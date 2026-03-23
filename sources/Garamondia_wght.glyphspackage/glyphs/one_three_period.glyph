@@ -1,0 +1,44 @@
+{
+glyphname = one_three_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = one.osf;
+},
+{
+alignment = -1;
+pos = (566,0);
+ref = three.osf;
+},
+{
+alignment = -1;
+pos = (1295,0);
+ref = period;
+}
+);
+width = 1746;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = one.osf;
+},
+{
+pos = (682,0);
+ref = three.osf;
+},
+{
+pos = (1329,0);
+ref = period;
+}
+);
+width = 1821;
+}
+);
+note = uni2494;
+unicode = 9364;
+}

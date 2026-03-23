@@ -1,0 +1,39 @@
+{
+glyphname = Upsilonvaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (245,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (129,47);
+ref = gravecomb.grk;
+}
+);
+width = 1693;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (88,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (128,-29);
+ref = gravecomb.grk;
+}
+);
+width = 1733;
+}
+);
+note = uni1FEA;
+unicode = 8170;
+}

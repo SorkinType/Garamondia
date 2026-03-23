@@ -1,0 +1,38 @@
+{
+glyphname = colon.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (20,541);
+ref = period;
+},
+{
+alignment = -1;
+pos = (20,0);
+ref = period;
+}
+);
+width = 486;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (20,541);
+ref = period;
+},
+{
+alignment = -1;
+pos = (20,0);
+ref = period;
+}
+);
+width = 537;
+}
+);
+note = colon.sc;
+}

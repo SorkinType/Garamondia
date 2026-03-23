@@ -1,0 +1,28 @@
+{
+glyphname = b.sc;
+kernLeft = B.sc;
+kernRight = B.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = B.sc;
+}
+);
+width = 1007;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = B.sc;
+}
+);
+width = 1078;
+}
+);
+note = b.sc;
+}

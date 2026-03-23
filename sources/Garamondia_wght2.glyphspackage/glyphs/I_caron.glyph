@@ -1,0 +1,39 @@
+{
+glyphname = Icaron;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (333,0);
+ref = caroncomb.case;
+}
+);
+width = 666;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (354,0);
+ref = caroncomb.case;
+}
+);
+width = 703;
+}
+);
+note = uni01CF;
+unicode = 463;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = Lamdasmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "el-cy.alt";
+}
+);
+width = 911;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "el-cy.alt";
+}
+);
+width = 1070;
+}
+);
+note = uni1D27;
+unicode = 7463;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = "Three-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (627,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (1262,0);
+ref = I;
+}
+);
+width = 1928;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (811,0);
+ref = I;
+},
+{
+pos = (1622,0);
+ref = I;
+}
+);
+width = 2433;
+}
+);
+note = uni2162;
+unicode = 8546;
+}

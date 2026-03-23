@@ -1,0 +1,36 @@
+{
+glyphname = Aogonek.sc;
+kernLeft = A.sc;
+kernRight = A.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A.sc;
+},
+{
+alignment = -1;
+pos = (510,0);
+ref = ogonek;
+}
+);
+width = 1076;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (1197,0);
+ref = ogonek;
+}
+);
+width = 1880;
+}
+);
+note = Aogonek.sc;
+}

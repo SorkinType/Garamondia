@@ -1,0 +1,36 @@
+{
+glyphname = etildebelow;
+kernLeft = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (398,-1295);
+ref = tildecomb;
+}
+);
+width = 764;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (382,-1339);
+ref = tildecomb;
+}
+);
+width = 829;
+}
+);
+note = uni1E1B;
+unicode = 7707;
+}

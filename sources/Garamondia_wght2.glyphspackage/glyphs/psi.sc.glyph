@@ -1,0 +1,26 @@
+{
+glyphname = psi.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Psi.sc;
+}
+);
+width = 1101;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Psi.sc;
+}
+);
+width = 1283;
+}
+);
+note = psi.sc;
+}

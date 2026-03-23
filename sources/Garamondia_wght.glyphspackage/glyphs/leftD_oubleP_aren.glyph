@@ -1,0 +1,35 @@
+{
+glyphname = leftDoubleParen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (386,0);
+ref = parenleft;
+},
+{
+alignment = -1;
+ref = parenleft;
+}
+);
+width = 1003;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (396,0);
+ref = parenleft;
+},
+{
+ref = parenleft;
+}
+);
+width = 988;
+}
+);
+note = uni2E28;
+unicode = 11816;
+}

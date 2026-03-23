@@ -1,0 +1,39 @@
+{
+glyphname = Iotavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (184,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (116,47);
+ref = gravecomb.grk;
+}
+);
+width = 851;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (66,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (140,-29);
+ref = gravecomb.grk;
+}
+);
+width = 954;
+}
+);
+note = uni1FDA;
+unicode = 8154;
+}

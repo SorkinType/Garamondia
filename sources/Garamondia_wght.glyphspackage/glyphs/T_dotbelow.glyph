@@ -1,0 +1,37 @@
+{
+glyphname = Tdotbelow;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = T;
+},
+{
+alignment = -1;
+pos = (641,-1764);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1313;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (713,-1791);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1374;
+}
+);
+note = uni1E6C;
+unicode = 7788;
+}

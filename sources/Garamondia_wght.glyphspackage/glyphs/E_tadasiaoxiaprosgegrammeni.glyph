@@ -1,0 +1,45 @@
+{
+glyphname = Etadasiaoxiaprosgegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (427,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiaoxia;
+},
+{
+alignment = -1;
+pos = (1272,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 2015;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (1771,0);
+ref = dasiaoxia;
+},
+{
+pos = (1470,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 2207;
+}
+);
+note = uni1F9D;
+unicode = 8093;
+}

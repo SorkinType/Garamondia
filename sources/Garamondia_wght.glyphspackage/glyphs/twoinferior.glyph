@@ -1,0 +1,28 @@
+{
+glyphname = twoinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-831);
+ref = two.ordn;
+}
+);
+width = 588;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,-831);
+ref = two.ordn;
+}
+);
+width = 686;
+}
+);
+note = uni2082;
+unicode = 8322;
+}

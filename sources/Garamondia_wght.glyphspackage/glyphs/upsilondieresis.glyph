@@ -1,0 +1,48 @@
+{
+glyphname = upsilondieresis;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (43,0);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (445,37);
+ref = dieresiscomb;
+}
+);
+width = 853;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (476,0);
+ref = dieresiscomb;
+}
+);
+width = 894;
+}
+);
+note = upsilondieresis;
+unicode = 971;
+}

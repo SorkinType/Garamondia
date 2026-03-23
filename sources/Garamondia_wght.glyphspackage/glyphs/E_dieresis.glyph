@@ -1,0 +1,50 @@
+{
+glyphname = Edieresis;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (331,350);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (584,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 1344;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (588,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 1451;
+}
+);
+note = Edieresis;
+unicode = 203;
+}

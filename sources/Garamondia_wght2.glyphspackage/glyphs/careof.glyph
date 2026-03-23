@@ -1,0 +1,49 @@
+{
+glyphname = careof;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (16,241);
+ref = c.ordn;
+},
+{
+alignment = -1;
+pos = (482,-2);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (574,-547);
+ref = o.ordn;
+}
+);
+width = 1625;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (6,86);
+ref = c.ordn;
+},
+{
+alignment = -1;
+pos = (596,-1);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (889,-196);
+ref = o.ordn;
+}
+);
+width = 1608;
+}
+);
+note = uni2105;
+unicode = 8453;
+}

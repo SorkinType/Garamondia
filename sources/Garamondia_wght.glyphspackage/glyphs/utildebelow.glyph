@@ -1,0 +1,37 @@
+{
+glyphname = utildebelow;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (482,-1295);
+ref = tildecomb;
+}
+);
+width = 1033;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (482,-1339);
+ref = tildecomb;
+}
+);
+width = 1090;
+}
+);
+note = uni1E75;
+unicode = 7797;
+}

@@ -1,0 +1,46 @@
+{
+glyphname = adotmacron;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (198,0);
+ref = dotaccent;
+},
+{
+alignment = -1;
+pos = (398,317);
+ref = macroncomb;
+}
+);
+width = 782;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (981,0);
+ref = dotaccent;
+},
+{
+pos = (461,353);
+ref = macroncomb;
+}
+);
+width = 876;
+}
+);
+note = uni01E1;
+unicode = 481;
+}

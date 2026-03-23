@@ -1,0 +1,35 @@
+{
+glyphname = Alphapsilivaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (-92,47);
+ref = psilivaria;
+}
+);
+width = 1356;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1344,0);
+ref = psilivaria;
+}
+);
+width = 2063;
+}
+);
+note = uni1F0A;
+unicode = 7946;
+}

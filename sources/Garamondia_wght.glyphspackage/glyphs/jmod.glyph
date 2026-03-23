@@ -1,0 +1,27 @@
+{
+glyphname = jmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-12);
+ref = j.ordn;
+}
+);
+width = 329;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = j.ordn;
+}
+);
+width = 472;
+}
+);
+note = uni02B2;
+unicode = 690;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = otilde;
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (181,0);
+ref = tilde;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (488,0);
+ref = tildecomb;
+}
+);
+width = 1045;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (494,0);
+ref = tildecomb;
+}
+);
+width = 1067;
+}
+);
+note = otilde;
+unicode = 245;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = nonbreakinghyphen;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = hyphen;
+}
+);
+width = 537;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 637;
+}
+);
+note = uni2011;
+unicode = 8209;
+}

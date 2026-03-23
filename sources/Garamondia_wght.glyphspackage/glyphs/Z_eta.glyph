@@ -1,0 +1,34 @@
+{
+glyphname = Zeta;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = Z;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z;
+}
+);
+width = 1344;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Z;
+}
+);
+width = 1365;
+}
+);
+note = Zeta;
+unicode = 918;
+}

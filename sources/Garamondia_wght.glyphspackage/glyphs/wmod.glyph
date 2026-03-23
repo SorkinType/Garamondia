@@ -1,0 +1,27 @@
+{
+glyphname = wmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-14);
+ref = w.ordn;
+}
+);
+width = 925;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = w.ordn;
+}
+);
+width = 1086;
+}
+);
+note = uni02B7;
+unicode = 695;
+}

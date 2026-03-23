@@ -1,0 +1,37 @@
+{
+glyphname = Idotaccent.sc;
+kernLeft = B.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I.sc;
+},
+{
+alignment = -1;
+pos = (306,-282);
+ref = dotaccentcomb.case;
+}
+);
+width = 617;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = I.sc;
+},
+{
+alignment = -1;
+pos = (330,-282);
+ref = dotaccentcomb.case;
+}
+);
+width = 648;
+}
+);
+note = Idotaccent.sc;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = napostrophe;
+kernLeft = dotlessi;
+kernRight = h;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (328,4);
+ref = n;
+},
+{
+alignment = -1;
+pos = (-96,-44);
+ref = commaaccent;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (159,0);
+ref = n;
+},
+{
+alignment = -1;
+pos = (-80,1123);
+ref = comma;
+}
+);
+width = 1365;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (-73,1123);
+ref = comma;
+}
+);
+width = 1600;
+}
+);
+note = napostrophe;
+unicode = 329;
+}

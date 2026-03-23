@@ -1,0 +1,32 @@
+{
+glyphname = h.sc;
+kernLeft = B.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (647,986);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = H.sc;
+}
+);
+width = 1254;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H.sc;
+}
+);
+width = 1290;
+}
+);
+note = h.sc;
+}

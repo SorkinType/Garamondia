@@ -1,0 +1,34 @@
+{
+glyphname = Gacute;
+kernLeft = C;
+kernRight = G;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (790,1323);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = G;
+},
+{
+alignment = -1;
+pos = (898,0);
+ref = acutecomb.cap;
+}
+);
+width = 1429;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1414;
+}
+);
+note = uni01F4;
+unicode = 500;
+}

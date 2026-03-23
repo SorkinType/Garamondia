@@ -1,0 +1,49 @@
+{
+glyphname = abrevehookabove;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (376,-2);
+ref = brevecomb.stack;
+},
+{
+alignment = -1;
+pos = (363,169);
+ref = hookabovecomb.stack;
+}
+);
+width = 782;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (419,10);
+ref = brevecomb.stack;
+},
+{
+alignment = -1;
+pos = (400,195);
+ref = hookabovecomb.stack;
+}
+);
+width = 842;
+}
+);
+note = uni1EB3;
+unicode = 7859;
+}

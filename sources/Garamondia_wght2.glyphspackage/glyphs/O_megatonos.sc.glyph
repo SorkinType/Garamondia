@@ -1,0 +1,31 @@
+{
+glyphname = Omegatonos.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (635,986);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omega.sc;
+},
+{
+alignment = -1;
+pos = (482,123);
+ref = tonos;
+}
+);
+width = 1293;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1712;
+}
+);
+note = Omegatonos.sc;
+}

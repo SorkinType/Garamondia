@@ -1,0 +1,37 @@
+{
+glyphname = Omegadasiaoxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (239,0);
+ref = Ohm;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiaoxia;
+}
+);
+width = 1866;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (351,0);
+ref = Ohm;
+},
+{
+pos = (-98,-71);
+ref = dasiaoxia;
+}
+);
+width = 1985;
+}
+);
+note = uni1F6D;
+unicode = 8045;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = scedilla.sc;
+kernLeft = S.sc;
+kernRight = S.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S.sc;
+},
+{
+alignment = -1;
+pos = (410,0);
+ref = cedillacomb;
+}
+);
+width = 843;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = S.sc;
+},
+{
+alignment = -1;
+pos = (407,0);
+ref = cedillacomb;
+}
+);
+width = 862;
+}
+);
+note = scedilla.sc;
+}

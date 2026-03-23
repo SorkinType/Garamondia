@@ -1,0 +1,37 @@
+{
+glyphname = Ohorndotbelow;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (727,-1764);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1495;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (749,-1791);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1487;
+}
+);
+note = uni1EE2;
+unicode = 7906;
+}

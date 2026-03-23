@@ -1,0 +1,36 @@
+{
+glyphname = Etavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (155,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (71,47);
+ref = gravecomb.grk;
+}
+);
+width = 1742;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (155,-71);
+ref = gravecomb.grk;
+}
+);
+width = 1901;
+}
+);
+note = uni1FCA;
+unicode = 8138;
+}

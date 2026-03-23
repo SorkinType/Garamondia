@@ -1,0 +1,49 @@
+{
+glyphname = midlinehorizontalellipsis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (794,321);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-29,321);
+ref = period;
+},
+{
+alignment = -1;
+pos = (380,321);
+ref = period;
+}
+);
+width = 1215;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (823,318);
+ref = period;
+},
+{
+alignment = -1;
+pos = (0,318);
+ref = period;
+},
+{
+alignment = -1;
+pos = (409,318);
+ref = period;
+}
+);
+width = 1299;
+}
+);
+note = uni22EF;
+unicode = 8943;
+}

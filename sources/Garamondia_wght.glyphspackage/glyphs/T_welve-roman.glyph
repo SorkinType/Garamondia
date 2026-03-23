@@ -1,0 +1,44 @@
+{
+glyphname = "Twelve-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = X;
+},
+{
+alignment = -1;
+pos = (1342,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (1974,0);
+ref = I;
+}
+);
+width = 2640;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = X;
+},
+{
+pos = (1408,0);
+ref = I;
+},
+{
+pos = (2219,0);
+ref = I;
+}
+);
+width = 3030;
+}
+);
+note = uni216B;
+unicode = 8555;
+}

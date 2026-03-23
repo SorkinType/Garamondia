@@ -1,0 +1,35 @@
+{
+glyphname = twoConsecutiveEqualsSigns;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1180,0);
+ref = equal;
+},
+{
+alignment = -1;
+ref = equal;
+}
+);
+width = 2289;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (1180,0);
+ref = equal;
+},
+{
+ref = equal;
+}
+);
+width = 2440;
+}
+);
+note = uni2A75;
+unicode = 10869;
+}

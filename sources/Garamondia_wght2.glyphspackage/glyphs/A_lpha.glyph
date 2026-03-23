@@ -1,0 +1,35 @@
+{
+glyphname = Alpha;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = A;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 1387;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = A;
+}
+);
+width = 1344;
+}
+);
+note = Alpha;
+unicode = 913;
+}

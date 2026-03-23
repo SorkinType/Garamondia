@@ -1,0 +1,46 @@
+{
+glyphname = itildebelow;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (47,0);
+ref = dotaccent;
+},
+{
+alignment = -1;
+pos = (206,-1295);
+ref = tildecomb;
+}
+);
+width = 480;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (576,0);
+ref = dotaccent;
+},
+{
+pos = (233,-1339);
+ref = tildecomb;
+}
+);
+width = 600;
+}
+);
+note = uni1E2D;
+unicode = 7725;
+}

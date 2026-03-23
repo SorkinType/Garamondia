@@ -1,0 +1,49 @@
+{
+glyphname = abreveacute;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (376,-6);
+ref = brevecomb.stack;
+},
+{
+alignment = -1;
+pos = (457,210);
+ref = acutecomb.stack;
+}
+);
+width = 782;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (406,8);
+ref = brevecomb.stack;
+},
+{
+alignment = -1;
+pos = (487,221);
+ref = acutecomb.stack;
+}
+);
+width = 842;
+}
+);
+note = uni1EAF;
+unicode = 7855;
+}

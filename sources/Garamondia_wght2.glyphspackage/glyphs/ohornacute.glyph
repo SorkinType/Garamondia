@@ -1,0 +1,38 @@
+{
+glyphname = ohornacute;
+kernLeft = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (576,0);
+ref = acutecomb;
+}
+);
+width = 992;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (588,0);
+ref = acutecomb;
+}
+);
+width = 1049;
+}
+);
+note = uni1EDB;
+unicode = 7899;
+}

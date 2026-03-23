@@ -1,0 +1,52 @@
+{
+glyphname = odieresis;
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (161,0);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (498,37);
+ref = dieresiscomb;
+}
+);
+width = 1045;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (502,13);
+ref = dieresiscomb;
+}
+);
+width = 1067;
+}
+);
+note = odieresis;
+unicode = 246;
+}

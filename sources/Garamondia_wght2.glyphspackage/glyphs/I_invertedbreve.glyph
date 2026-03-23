@@ -1,0 +1,34 @@
+{
+glyphname = Iinvertedbreve;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (343,412);
+ref = breveinvertedcomb;
+}
+);
+width = 725;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = I;
+},
+{
+ref = breveinvertedcomb;
+}
+);
+width = 811;
+}
+);
+note = uni020A;
+unicode = 522;
+}

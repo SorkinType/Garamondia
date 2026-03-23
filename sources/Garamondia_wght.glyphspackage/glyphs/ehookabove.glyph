@@ -1,0 +1,37 @@
+{
+glyphname = ehookabove;
+kernLeft = c;
+kernRight = ae;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (414,0);
+ref = hookabovecomb;
+}
+);
+width = 764;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (459,0);
+ref = hookabovecomb;
+}
+);
+width = 829;
+}
+);
+note = uni1EBB;
+unicode = 7867;
+}

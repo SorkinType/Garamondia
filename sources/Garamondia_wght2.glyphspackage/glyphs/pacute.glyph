@@ -1,0 +1,39 @@
+{
+glyphname = pacute;
+kernLeft = dotlessi;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = p;
+},
+{
+alignment = -1;
+pos = (606,0);
+ref = acutecomb;
+}
+);
+width = 1017;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = p;
+},
+{
+alignment = -1;
+pos = (652,0);
+ref = acutecomb;
+}
+);
+width = 1066;
+}
+);
+note = uni1E55;
+unicode = 7765;
+}

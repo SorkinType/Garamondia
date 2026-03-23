@@ -1,0 +1,38 @@
+{
+glyphname = Zacute.sc;
+kernLeft = Z.sc;
+kernRight = Z.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z.sc;
+},
+{
+alignment = -1;
+pos = (559,123);
+ref = acutecomb;
+}
+);
+width = 1000;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Z.sc;
+},
+{
+alignment = -1;
+pos = (566,123);
+ref = acutecomb;
+}
+);
+width = 996;
+}
+);
+note = Zacute.sc;
+}

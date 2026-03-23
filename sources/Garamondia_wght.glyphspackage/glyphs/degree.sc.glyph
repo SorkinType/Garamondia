@@ -1,0 +1,27 @@
+{
+glyphname = degree.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-229);
+ref = degree;
+}
+);
+width = 568;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,-229);
+ref = degree;
+}
+);
+width = 676;
+}
+);
+note = degree.sc;
+}

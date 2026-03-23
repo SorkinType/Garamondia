@@ -1,0 +1,50 @@
+{
+glyphname = Etatonos;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (94,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (-308,-23);
+ref = tonos;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (239,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (-61,27);
+ref = tonos;
+}
+);
+width = 1651;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (1771,0);
+ref = tonos;
+}
+);
+width = 2454;
+}
+);
+note = Etatonos;
+unicode = 905;
+}

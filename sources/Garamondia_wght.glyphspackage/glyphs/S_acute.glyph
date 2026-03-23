@@ -1,0 +1,50 @@
+{
+glyphname = Sacute;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (128,428);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (615,0);
+ref = acutecomb.cap;
+}
+);
+width = 981;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (641,0);
+ref = acutecomb.cap;
+}
+);
+width = 1045;
+}
+);
+note = Sacute;
+unicode = 346;
+}

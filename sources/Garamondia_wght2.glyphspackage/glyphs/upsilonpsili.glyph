@@ -1,0 +1,37 @@
+{
+glyphname = upsilonpsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (218,0);
+ref = psili;
+}
+);
+width = 851;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (652,0);
+ref = psili;
+}
+);
+width = 1187;
+}
+);
+note = uni1F50;
+unicode = 8016;
+}

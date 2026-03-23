@@ -1,0 +1,49 @@
+{
+glyphname = "Yerudieresis-cy";
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (1048,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (856,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1715;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (1266,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (899,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1797;
+}
+);
+note = uni04F8;
+unicode = 1272;
+}

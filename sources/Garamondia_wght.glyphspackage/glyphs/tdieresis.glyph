@@ -1,0 +1,36 @@
+{
+glyphname = tdieresis;
+kernLeft = t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (267,37);
+ref = dieresiscomb;
+}
+);
+width = 615;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (341,78);
+ref = dieresiscomb;
+}
+);
+width = 760;
+}
+);
+note = uni1E97;
+unicode = 7831;
+}

@@ -1,0 +1,52 @@
+{
+glyphname = rcaron;
+kernLeft = dotlessi;
+kernRight = r;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = r;
+},
+{
+alignment = -1;
+pos = (17,0);
+ref = caron;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = r;
+},
+{
+alignment = -1;
+pos = (374,0);
+ref = caroncomb;
+}
+);
+width = 683;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = r;
+},
+{
+alignment = -1;
+pos = (476,0);
+ref = caroncomb;
+}
+);
+width = 704;
+}
+);
+note = rcaron;
+unicode = 345;
+}

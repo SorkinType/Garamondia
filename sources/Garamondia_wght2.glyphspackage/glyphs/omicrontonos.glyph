@@ -1,0 +1,50 @@
+{
+glyphname = omicrontonos;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = omicron;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = tonos;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omicron;
+},
+{
+alignment = -1;
+pos = (272,0);
+ref = tonos;
+}
+);
+width = 1009;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = omicron;
+},
+{
+alignment = -1;
+pos = (770,0);
+ref = tonos;
+}
+);
+width = 1048;
+}
+);
+note = omicrontonos;
+unicode = 972;
+}

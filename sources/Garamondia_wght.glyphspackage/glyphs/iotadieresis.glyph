@@ -1,0 +1,48 @@
+{
+glyphname = iotadieresis;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-157,0);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (255,37);
+ref = dieresiscomb;
+}
+);
+width = 468;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (261,0);
+ref = dieresiscomb;
+}
+);
+width = 484;
+}
+);
+note = iotadieresis;
+unicode = 970;
+}

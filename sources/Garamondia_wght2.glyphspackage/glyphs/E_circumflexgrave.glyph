@@ -1,0 +1,49 @@
+{
+glyphname = Ecircumflexgrave;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (547,-29);
+ref = circumflexcomb.cap;
+},
+{
+alignment = -1;
+pos = (194,96);
+ref = gravecomb.capstack;
+}
+);
+width = 1048;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (505,-5);
+ref = circumflexcomb.cap;
+},
+{
+alignment = -1;
+pos = (152,120);
+ref = gravecomb.capstack;
+}
+);
+width = 1094;
+}
+);
+note = uni1EC0;
+unicode = 7872;
+}

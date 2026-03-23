@@ -1,0 +1,37 @@
+{
+glyphname = "Iishort-cy";
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Ii-cy";
+},
+{
+alignment = -1;
+pos = (817,0);
+ref = brevecomb.cyrcap;
+}
+);
+width = 1557;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (807,0);
+ref = brevecomb.cyrcap;
+}
+);
+width = 1771;
+}
+);
+note = uni0419;
+unicode = 1049;
+}

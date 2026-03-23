@@ -1,0 +1,29 @@
+{
+glyphname = bulletoperator;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-29,319);
+ref = period;
+}
+);
+width = 448;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (-23,317);
+ref = period;
+}
+);
+width = 533;
+}
+);
+note = uni2219;
+unicode = 8729;
+}

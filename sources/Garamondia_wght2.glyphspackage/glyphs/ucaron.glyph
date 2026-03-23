@@ -1,0 +1,39 @@
+{
+glyphname = ucaron;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (494,0);
+ref = caroncomb;
+}
+);
+width = 1033;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (540,0);
+ref = caroncomb;
+}
+);
+width = 1070;
+}
+);
+note = uni01D4;
+unicode = 468;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = pinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-831);
+ref = p.ordn;
+}
+);
+width = 682;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-831);
+ref = p.ordn;
+}
+);
+width = 780;
+}
+);
+note = uni209A;
+unicode = 8346;
+}

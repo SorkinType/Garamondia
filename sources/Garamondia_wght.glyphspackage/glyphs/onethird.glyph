@@ -1,0 +1,46 @@
+{
+glyphname = onethird;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,4);
+ref = one.ordn;
+},
+{
+alignment = -1;
+pos = (508,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (606,-594);
+ref = three.ordn;
+}
+);
+width = 1162;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,4);
+ref = one.ordn;
+},
+{
+pos = (484,0);
+ref = fraction;
+},
+{
+pos = (582,-594);
+ref = three.ordn;
+}
+);
+width = 1166;
+}
+);
+note = uni2153;
+unicode = 8531;
+}

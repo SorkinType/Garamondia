@@ -1,0 +1,38 @@
+{
+glyphname = nacute.sc;
+kernLeft = B.sc;
+kernRight = N.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N.sc;
+},
+{
+alignment = -1;
+pos = (729,123);
+ref = acutecomb;
+}
+);
+width = 1186;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = N.sc;
+},
+{
+alignment = -1;
+pos = (716,123);
+ref = acutecomb;
+}
+);
+width = 1239;
+}
+);
+note = nacute.sc;
+}

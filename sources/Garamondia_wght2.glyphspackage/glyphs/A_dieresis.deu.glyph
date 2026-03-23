@@ -1,0 +1,48 @@
+{
+glyphname = Adieresis.deu;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (415,-176);
+ref = dotaccentcomb.case;
+},
+{
+alignment = -1;
+pos = (1000,-172);
+ref = dotaccentcomb.case;
+}
+);
+width = 1356;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (393,-193);
+ref = dotaccentcomb.case;
+},
+{
+alignment = -1;
+pos = (1085,-191);
+ref = dotaccentcomb.case;
+}
+);
+width = 1399;
+}
+);
+note = Adieresis.deu;
+}

@@ -1,0 +1,49 @@
+{
+glyphname = idieresisacute;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (216,6);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (294,247);
+ref = acutecomb.stack;
+}
+);
+width = 480;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (257,-18);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (351,282);
+ref = acutecomb.stack;
+}
+);
+width = 557;
+}
+);
+note = uni1E2F;
+unicode = 7727;
+}

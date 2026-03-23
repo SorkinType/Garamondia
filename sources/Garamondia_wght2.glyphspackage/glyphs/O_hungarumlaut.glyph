@@ -1,0 +1,35 @@
+{
+glyphname = Ohungarumlaut;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (884,412);
+ref = hungarumlautcomb;
+}
+);
+width = 1600;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (810,477);
+ref = hungarumlautcomb;
+}
+);
+width = 1621;
+}
+);
+note = Ohungarumlaut;
+unicode = 336;
+}

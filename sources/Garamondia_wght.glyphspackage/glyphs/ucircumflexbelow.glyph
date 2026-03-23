@@ -1,0 +1,37 @@
+{
+glyphname = ucircumflexbelow;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (504,-1384);
+ref = circumflexcomb;
+}
+);
+width = 1033;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (543,-1390);
+ref = circumflexcomb;
+}
+);
+width = 1090;
+}
+);
+note = uni1E77;
+unicode = 7799;
+}

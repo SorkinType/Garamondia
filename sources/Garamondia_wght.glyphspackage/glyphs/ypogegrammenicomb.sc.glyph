@@ -1,0 +1,25 @@
+{
+glyphname = ypogegrammenicomb.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ypogegrammenicomb;
+}
+);
+width = 0;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = ypogegrammenicomb;
+}
+);
+width = 0;
+}
+);
+note = uni0345.sc;
+}

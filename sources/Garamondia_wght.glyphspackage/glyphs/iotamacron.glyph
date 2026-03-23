@@ -1,0 +1,35 @@
+{
+glyphname = iotamacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (255,20);
+ref = macroncomb;
+}
+);
+width = 466;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (267,25);
+ref = macroncomb;
+}
+);
+width = 586;
+}
+);
+note = uni1FD1;
+unicode = 8145;
+}

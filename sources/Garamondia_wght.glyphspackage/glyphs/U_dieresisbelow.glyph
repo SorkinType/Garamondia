@@ -1,0 +1,37 @@
+{
+glyphname = Udieresisbelow;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (721,-1331);
+ref = dieresiscomb;
+}
+);
+width = 1446;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (760,-1368);
+ref = dieresiscomb;
+}
+);
+width = 1462;
+}
+);
+note = uni1E72;
+unicode = 7794;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = alphapsilioxiaypogegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (194,0);
+ref = psilioxia;
+},
+{
+alignment = -1;
+pos = (535,4);
+ref = ypogegrammenicomb;
+}
+);
+width = 886;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (726,0);
+ref = psilioxia;
+},
+{
+alignment = -1;
+pos = (559,4);
+ref = ypogegrammenicomb;
+}
+);
+width = 974;
+}
+);
+note = uni1F84;
+unicode = 8068;
+}

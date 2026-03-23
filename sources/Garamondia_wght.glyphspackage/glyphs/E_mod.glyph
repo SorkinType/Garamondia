@@ -1,0 +1,26 @@
+{
+glyphname = Emod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E.ordn;
+}
+);
+width = 813;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E.ordn;
+}
+);
+width = 884;
+}
+);
+note = uni1D31;
+unicode = 7473;
+}

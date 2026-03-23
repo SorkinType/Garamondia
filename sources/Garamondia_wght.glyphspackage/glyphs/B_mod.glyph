@@ -1,0 +1,26 @@
+{
+glyphname = Bmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = B.ordn;
+}
+);
+width = 856;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = B.ordn;
+}
+);
+width = 1003;
+}
+);
+note = uni1D2E;
+unicode = 7470;
+}

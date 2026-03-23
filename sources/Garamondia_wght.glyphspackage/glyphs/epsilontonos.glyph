@@ -1,0 +1,48 @@
+{
+glyphname = epsilontonos;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = epsilon;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = tonos;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = epsilon;
+},
+{
+alignment = -1;
+pos = (216,0);
+ref = tonos;
+}
+);
+width = 766;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (857,0);
+ref = tonos;
+}
+);
+width = 1540;
+}
+);
+note = epsilontonos;
+unicode = 941;
+}

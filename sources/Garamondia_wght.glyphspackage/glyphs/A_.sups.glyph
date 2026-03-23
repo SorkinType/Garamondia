@@ -1,0 +1,27 @@
+{
+glyphname = A.sups;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,314);
+ref = A.ordn;
+}
+);
+width = 949;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,343);
+ref = A.ordn;
+}
+);
+width = 1103;
+}
+);
+note = A.sups;
+}

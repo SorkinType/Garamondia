@@ -1,0 +1,49 @@
+{
+glyphname = Acircumflexhookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (707,-29);
+ref = circumflexcomb.cap;
+},
+{
+alignment = -1;
+pos = (1017,63);
+ref = hookabovecomb.cap;
+}
+);
+width = 1356;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (731,-29);
+ref = circumflexcomb.cap;
+},
+{
+alignment = -1;
+pos = (1070,98);
+ref = hookabovecomb.cap;
+}
+);
+width = 1399;
+}
+);
+note = uni1EA8;
+unicode = 7848;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = UpsilonacutehookSymbol;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (249,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (-100,27);
+ref = tonos;
+}
+);
+width = 1697;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (89,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (820,10);
+ref = tonos;
+}
+);
+width = 1902;
+}
+);
+note = uni03D3;
+unicode = 979;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = Epsilondasiaoxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (423,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiaoxia;
+}
+);
+width = 1529;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1451,0);
+ref = dasiaoxia;
+}
+);
+width = 2170;
+}
+);
+note = uni1F1D;
+unicode = 7965;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = ydieresis.sc;
+kernLeft = Y.sc;
+kernRight = Y.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y.sc;
+},
+{
+alignment = -1;
+pos = (519,135);
+ref = dieresiscomb;
+}
+);
+width = 1000;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Y.sc;
+},
+{
+pos = (680,94);
+ref = dieresiscomb;
+}
+);
+width = 1186;
+}
+);
+note = ydieresis.sc;
+}

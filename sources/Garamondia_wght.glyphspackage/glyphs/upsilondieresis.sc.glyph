@@ -1,0 +1,34 @@
+{
+glyphname = upsilondieresis.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Upsilon.sc;
+},
+{
+alignment = -1;
+pos = (572,135);
+ref = dieresiscomb;
+}
+);
+width = 1156;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Upsilon.sc;
+},
+{
+pos = (564,94);
+ref = dieresiscomb;
+}
+);
+width = 1117;
+}
+);
+note = upsilondieresis.sc;
+}

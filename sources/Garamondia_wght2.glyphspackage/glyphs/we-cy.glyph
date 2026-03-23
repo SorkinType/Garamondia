@@ -1,0 +1,29 @@
+{
+glyphname = "we-cy";
+kernLeft = uni0263;
+kernRight = uni0233;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = w;
+}
+);
+width = 1342;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = w;
+}
+);
+width = 1412;
+}
+);
+note = uni051D;
+unicode = 1309;
+}

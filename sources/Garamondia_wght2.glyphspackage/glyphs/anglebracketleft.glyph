@@ -1,0 +1,21 @@
+{
+glyphname = anglebracketleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = angleLeft;
+}
+);
+width = 602;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 578;
+}
+);
+note = uni3008;
+unicode = 12296;
+}

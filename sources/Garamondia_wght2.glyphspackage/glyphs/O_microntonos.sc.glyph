@@ -1,0 +1,36 @@
+{
+glyphname = Omicrontonos.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O.sc;
+},
+{
+alignment = -1;
+pos = (459,123);
+ref = tonos;
+}
+);
+width = 1207;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = O.sc;
+},
+{
+alignment = -1;
+pos = (960,44);
+ref = tonos;
+}
+);
+width = 1666;
+}
+);
+note = Omicrontonos.sc;
+}

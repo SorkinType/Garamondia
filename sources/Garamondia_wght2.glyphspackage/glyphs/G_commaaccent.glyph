@@ -1,0 +1,41 @@
+{
+color = 1;
+glyphname = Gcommaaccent;
+kernLeft = C;
+kernRight = G;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (790,1323);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (788,59);
+ref = commaaccentcomb;
+}
+);
+width = 1579;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = G;
+},
+{
+ref = commaaccentcomb;
+}
+);
+width = 1493;
+}
+);
+note = uni0122;
+unicode = 290;
+}

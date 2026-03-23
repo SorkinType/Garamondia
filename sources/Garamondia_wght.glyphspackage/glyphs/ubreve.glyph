@@ -1,0 +1,50 @@
+{
+glyphname = ubreve;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (151,0);
+ref = breve;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (494,0);
+ref = brevecomb;
+}
+);
+width = 1003;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (568,0);
+ref = brevecomb;
+}
+);
+width = 1131;
+}
+);
+note = ubreve;
+unicode = 365;
+}

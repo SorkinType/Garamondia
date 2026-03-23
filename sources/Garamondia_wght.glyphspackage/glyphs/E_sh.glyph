@@ -1,0 +1,27 @@
+{
+glyphname = Esh;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Sigma;
+}
+);
+width = 1182;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Sigma;
+}
+);
+width = 1343;
+}
+);
+note = uni01A9;
+unicode = 425;
+}

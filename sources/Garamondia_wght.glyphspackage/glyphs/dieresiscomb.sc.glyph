@@ -1,0 +1,33 @@
+{
+glyphname = dieresiscomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (0,862);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-29);
+ref = dieresiscomb;
+}
+);
+width = 0;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,-29);
+ref = dieresiscomb;
+}
+);
+width = 0;
+}
+);
+note = uni0308.sc;
+}

@@ -1,0 +1,28 @@
+{
+glyphname = primemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+}
+);
+width = 392;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (-121,0);
+ref = quotesingle;
+}
+);
+width = 206;
+}
+);
+note = uni02B9;
+unicode = 697;
+}

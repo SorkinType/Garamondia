@@ -1,0 +1,50 @@
+{
+glyphname = Wacute;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (628,428);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (1088,0);
+ref = acutecomb.cap;
+}
+);
+width = 1813;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (1276,0);
+ref = acutecomb.cap;
+}
+);
+width = 1835;
+}
+);
+note = Wacute;
+unicode = 7810;
+}

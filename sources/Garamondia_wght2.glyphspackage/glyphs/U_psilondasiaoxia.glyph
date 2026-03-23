@@ -1,0 +1,28 @@
+{
+glyphname = Upsilondasiaoxia;
+kernRight = Upsilon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (439,0);
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiaoxia;
+}
+);
+width = 1887;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1993;
+}
+);
+note = uni1F5D;
+unicode = 8029;
+}

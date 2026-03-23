@@ -1,0 +1,38 @@
+{
+glyphname = ohornhookabove;
+kernLeft = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (464,0);
+ref = hookabovecomb;
+}
+);
+width = 992;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (478,0);
+ref = hookabovecomb;
+}
+);
+width = 1049;
+}
+);
+note = uni1EDF;
+unicode = 7903;
+}

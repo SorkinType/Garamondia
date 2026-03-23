@@ -1,0 +1,63 @@
+{
+glyphname = quotesinglbase;
+kernLeft = period;
+kernRight = uniA72E;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(266,-269,qs),
+(387,-167,o),
+(387,-40,qs),
+(387,35,o),
+(278,141,o),
+(202,141,qs),
+(164,141,o),
+(123,105,qs),
+(98,84,o),
+(98,49,qs),
+(98,17,o),
+(145,-32,o),
+(171,-32,qs),
+(234,-30,ls),
+(250,-30,o),
+(266,-49,qs),
+(282,-69,o),
+(282,-98,qs),
+(282,-148,o),
+(191,-263,o),
+(93,-310,q),
+(98,-356,l),
+(178,-344,o)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (41,0);
+ref = comma;
+}
+);
+width = 448;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (15,0);
+ref = comma;
+}
+);
+width = 512;
+}
+);
+note = quotesinglbase;
+unicode = 8218;
+}

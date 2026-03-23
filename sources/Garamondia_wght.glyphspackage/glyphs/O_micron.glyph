@@ -1,0 +1,34 @@
+{
+glyphname = Omicron;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = O;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 1600;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = O;
+}
+);
+width = 1621;
+}
+);
+note = Omicron;
+unicode = 927;
+}

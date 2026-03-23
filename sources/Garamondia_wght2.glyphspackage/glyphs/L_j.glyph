@@ -1,0 +1,48 @@
+{
+glyphname = Lj;
+kernLeft = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (1125,0);
+ref = j.dotless;
+},
+{
+alignment = -1;
+pos = (1156,0);
+ref = dotaccent;
+}
+);
+width = 1568;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (1238,0);
+ref = j.dotless;
+},
+{
+alignment = -1;
+pos = (1595,0);
+ref = dotaccent;
+}
+);
+width = 2181;
+}
+);
+note = uni01C8;
+unicode = 456;
+}

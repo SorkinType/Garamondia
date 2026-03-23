@@ -1,0 +1,37 @@
+{
+glyphname = xdotaccent;
+kernLeft = uni1E8B;
+kernRight = uni1E8B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = x;
+},
+{
+alignment = -1;
+pos = (268,0);
+ref = dotaccent;
+}
+);
+width = 843;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = x;
+},
+{
+pos = (1024,0);
+ref = dotaccent;
+}
+);
+width = 1707;
+}
+);
+note = uni1E8B;
+unicode = 7819;
+}

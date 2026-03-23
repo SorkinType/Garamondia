@@ -1,0 +1,53 @@
+{
+glyphname = Omegatonos;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (12,0);
+ref = Omega;
+},
+{
+alignment = -1;
+pos = (-308,-23);
+ref = tonos;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (12,0);
+ref = Ohm;
+},
+{
+alignment = -1;
+pos = (-100,27);
+ref = tonos;
+}
+);
+width = 1600;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (126,0);
+ref = Ohm;
+},
+{
+alignment = -1;
+pos = (-80,-39);
+ref = tonos;
+}
+);
+width = 1752;
+}
+);
+note = Omegatonos;
+unicode = 911;
+}

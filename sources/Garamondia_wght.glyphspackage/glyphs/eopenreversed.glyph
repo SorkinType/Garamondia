@@ -1,0 +1,28 @@
+{
+glyphname = eopenreversed;
+kernLeft = uni0254;
+kernRight = uni025C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ze-cy";
+}
+);
+width = 749;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "ze-cy";
+}
+);
+width = 881;
+}
+);
+note = uni025C;
+unicode = 604;
+}

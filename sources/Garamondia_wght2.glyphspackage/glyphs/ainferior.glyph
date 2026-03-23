@@ -1,0 +1,29 @@
+{
+glyphname = ainferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-886);
+ref = a.ordn;
+}
+);
+width = 588;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-886);
+ref = a.ordn;
+}
+);
+width = 650;
+}
+);
+note = uni2090;
+unicode = 8336;
+}

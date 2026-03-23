@@ -1,0 +1,37 @@
+{
+glyphname = Omegapsilioxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (239,0);
+ref = Ohm;
+},
+{
+alignment = -1;
+pos = (-59,47);
+ref = psilioxia;
+}
+);
+width = 1866;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (359,0);
+ref = Ohm;
+},
+{
+pos = (-98,-71);
+ref = psilioxia;
+}
+);
+width = 1993;
+}
+);
+note = uni1F6C;
+unicode = 8044;
+}

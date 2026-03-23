@@ -1,0 +1,29 @@
+{
+glyphname = jsubscript;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = j.ordn;
+}
+);
+width = 329;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = j.ordn;
+}
+);
+width = 421;
+}
+);
+note = uni2C7C;
+unicode = 11388;
+}

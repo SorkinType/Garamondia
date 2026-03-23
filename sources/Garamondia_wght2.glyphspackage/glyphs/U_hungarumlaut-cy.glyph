@@ -1,0 +1,49 @@
+{
+glyphname = "Uhungarumlaut-cy";
+kernLeft = uni0423;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+alignment = -1;
+pos = (837,0);
+ref = acutecomb.cap;
+},
+{
+alignment = -1;
+pos = (578,0);
+ref = acutecomb.cap;
+}
+);
+width = 1248;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+alignment = -1;
+pos = (942,0);
+ref = acutecomb.cap;
+},
+{
+alignment = -1;
+pos = (637,0);
+ref = acutecomb.cap;
+}
+);
+width = 1303;
+}
+);
+note = uni04F2;
+unicode = 1266;
+}

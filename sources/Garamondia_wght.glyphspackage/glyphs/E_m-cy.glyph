@@ -1,0 +1,28 @@
+{
+glyphname = "Em-cy";
+kernLeft = M;
+kernRight = M;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = M;
+}
+);
+width = 1707;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = M;
+}
+);
+width = 1877;
+}
+);
+note = uni041C;
+unicode = 1052;
+}

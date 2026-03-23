@@ -1,0 +1,35 @@
+{
+glyphname = five_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = five.osf;
+},
+{
+alignment = -1;
+pos = (735,0);
+ref = period;
+}
+);
+width = 1186;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = five.osf;
+},
+{
+pos = (735,0);
+ref = period;
+}
+);
+width = 1227;
+}
+);
+note = uni248C;
+unicode = 9356;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = Nacute;
+kernLeft = B;
+kernRight = N;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (420,432);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (884,0);
+ref = acutecomb.cap;
+}
+);
+width = 1579;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (945,0);
+ref = acutecomb.cap;
+}
+);
+width = 1728;
+}
+);
+note = Nacute;
+unicode = 323;
+}

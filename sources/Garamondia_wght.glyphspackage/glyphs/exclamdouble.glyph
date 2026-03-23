@@ -1,0 +1,36 @@
+{
+glyphname = exclamdouble;
+kernLeft = exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (382,0);
+ref = exclam;
+}
+);
+width = 811;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = exclam;
+},
+{
+pos = (461,0);
+ref = exclam;
+}
+);
+width = 1088;
+}
+);
+note = exclamdbl;
+unicode = 8252;
+}

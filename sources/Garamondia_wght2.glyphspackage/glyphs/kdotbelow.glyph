@@ -1,0 +1,39 @@
+{
+glyphname = kdotbelow;
+kernLeft = h;
+kernRight = k;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = k;
+},
+{
+alignment = -1;
+pos = (261,-1388);
+ref = dotaccent;
+}
+);
+width = 919;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = k;
+},
+{
+alignment = -1;
+pos = (792,-497);
+ref = dotaccent;
+}
+);
+width = 1466;
+}
+);
+note = uni1E33;
+unicode = 7731;
+}

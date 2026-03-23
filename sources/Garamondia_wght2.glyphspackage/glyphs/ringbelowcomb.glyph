@@ -1,0 +1,28 @@
+{
+glyphname = ringbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (0,-59);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-1429);
+ref = ringcomb;
+}
+);
+width = 0;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 0;
+}
+);
+note = uni0325;
+unicode = 805;
+}

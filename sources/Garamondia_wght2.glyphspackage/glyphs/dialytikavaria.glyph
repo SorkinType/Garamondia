@@ -1,0 +1,27 @@
+{
+glyphname = dialytikavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (296,37);
+ref = dieresiscomb.grkstacksc;
+},
+{
+alignment = -1;
+pos = (241,92);
+ref = gravecomb.grksc;
+}
+);
+width = 588;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 672;
+}
+);
+note = uni1FED;
+unicode = 8173;
+}

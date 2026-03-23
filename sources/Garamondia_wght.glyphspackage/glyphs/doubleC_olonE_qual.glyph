@@ -1,0 +1,64 @@
+{
+glyphname = doubleColonEqual;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (892,0);
+ref = equal;
+},
+{
+alignment = -1;
+pos = (468,692);
+ref = period;
+},
+{
+alignment = -1;
+pos = (468,151);
+ref = period;
+},
+{
+alignment = -1;
+pos = (20,692);
+ref = period;
+},
+{
+alignment = -1;
+pos = (20,151);
+ref = period;
+}
+);
+width = 2001;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (892,0);
+ref = equal;
+},
+{
+pos = (468,692);
+ref = period;
+},
+{
+pos = (468,151);
+ref = period;
+},
+{
+pos = (20,692);
+ref = period;
+},
+{
+pos = (20,151);
+ref = period;
+}
+);
+width = 2152;
+}
+);
+note = uni2A74;
+unicode = 10868;
+}

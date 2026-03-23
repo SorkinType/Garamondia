@@ -1,0 +1,50 @@
+{
+glyphname = wacute;
+kernLeft = uni0263;
+kernRight = uni0233;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (339,0);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (762,0);
+ref = acutecomb;
+}
+);
+width = 1365;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (913,0);
+ref = acutecomb;
+}
+);
+width = 1451;
+}
+);
+note = wacute;
+unicode = 7811;
+}

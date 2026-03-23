@@ -1,0 +1,21 @@
+{
+glyphname = increment;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Delta;
+}
+);
+width = 1259;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1386;
+}
+);
+note = uni0394.1;
+unicode = 8710;
+}

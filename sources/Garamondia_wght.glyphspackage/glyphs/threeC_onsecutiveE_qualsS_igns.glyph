@@ -1,0 +1,44 @@
+{
+glyphname = threeConsecutiveEqualsSigns;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (1180,0);
+ref = equal;
+},
+{
+alignment = -1;
+ref = equal;
+},
+{
+alignment = -1;
+pos = (2348,0);
+ref = equal;
+}
+);
+width = 3457;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (1199,0);
+ref = equal;
+},
+{
+ref = equal;
+},
+{
+pos = (2387,0);
+ref = equal;
+}
+);
+width = 3647;
+}
+);
+note = uni2A76;
+unicode = 10870;
+}

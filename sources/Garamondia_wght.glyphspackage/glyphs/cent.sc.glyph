@@ -1,0 +1,30 @@
+{
+color = 3;
+glyphname = cent.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-133);
+ref = cent;
+scale = (1,1.0129);
+}
+);
+width = 827;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,-12);
+ref = cent;
+scale = (1,0.9428);
+}
+);
+width = 856;
+}
+);
+note = cent.sc;
+}

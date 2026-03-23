@@ -1,0 +1,39 @@
+{
+glyphname = "izhitsadblgrave-cy";
+kernLeft = uni0263;
+kernRight = uni0475;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "izhitsa-cy";
+},
+{
+alignment = -1;
+pos = (402,0);
+ref = dblgravecomb;
+}
+);
+width = 898;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = "izhitsa-cy";
+},
+{
+alignment = -1;
+pos = (424,0);
+ref = dblgravecomb;
+}
+);
+width = 969;
+}
+);
+note = uni0477;
+unicode = 1143;
+}

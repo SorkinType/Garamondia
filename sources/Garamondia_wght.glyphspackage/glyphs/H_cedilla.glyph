@@ -1,0 +1,37 @@
+{
+glyphname = Hcedilla;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (288,0);
+ref = cedillacomb.cap;
+}
+);
+width = 1587;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (298,0);
+ref = cedillacomb.cap;
+}
+);
+width = 1566;
+}
+);
+note = uni1E28;
+unicode = 7720;
+}

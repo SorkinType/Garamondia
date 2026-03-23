@@ -1,0 +1,48 @@
+{
+glyphname = Aring;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (321,395);
+ref = ring;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (694,0);
+ref = ringcomb.cap;
+}
+);
+width = 1387;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (485,0);
+ref = ringcomb.cap;
+}
+);
+width = 1344;
+}
+);
+note = Aring;
+unicode = 197;
+}

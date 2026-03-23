@@ -1,0 +1,45 @@
+{
+glyphname = accountof;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (529,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (0,247);
+ref = a.ordn;
+},
+{
+alignment = -1;
+pos = (655,-549);
+ref = c.ordn;
+}
+);
+width = 1176;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = fraction;
+},
+{
+pos = (405,0);
+ref = a.ordn;
+},
+{
+pos = (1089,0);
+ref = c.ordn;
+}
+);
+width = 1749;
+}
+);
+note = uni2100;
+unicode = 8448;
+}

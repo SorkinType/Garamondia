@@ -1,0 +1,26 @@
+{
+glyphname = engmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = eng;
+}
+);
+width = 1005;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = eng;
+}
+);
+width = 1173;
+}
+);
+note = uni1D51;
+unicode = 7505;
+}

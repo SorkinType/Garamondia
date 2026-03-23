@@ -1,0 +1,37 @@
+{
+glyphname = ocaron;
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (498,0);
+ref = caroncomb;
+}
+);
+width = 970;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (508,0);
+ref = caroncomb;
+}
+);
+width = 990;
+}
+);
+note = uni01D2;
+unicode = 466;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = Lcaron;
+kernLeft = B;
+kernRight = L;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (598,-45);
+ref = commaaccent;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (860,-71);
+ref = caroncomb.altcap;
+}
+);
+width = 1173;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (892,-86);
+ref = caroncomb.altcap;
+}
+);
+width = 1301;
+}
+);
+note = Lcaron;
+unicode = 317;
+}

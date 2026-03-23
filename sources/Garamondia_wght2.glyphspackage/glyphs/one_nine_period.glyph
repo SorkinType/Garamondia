@@ -1,0 +1,47 @@
+{
+glyphname = one_nine_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = one.osf;
+},
+{
+alignment = -1;
+pos = (566,0);
+ref = nine.osf;
+},
+{
+alignment = -1;
+pos = (1480,0);
+ref = period;
+}
+);
+width = 1930;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = one.osf;
+},
+{
+alignment = -1;
+pos = (640,0);
+ref = nine.osf;
+},
+{
+alignment = -1;
+pos = (1529,0);
+ref = period;
+}
+);
+width = 2006;
+}
+);
+note = uni249A;
+unicode = 9370;
+}

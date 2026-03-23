@@ -1,0 +1,26 @@
+{
+glyphname = Tsmall;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "te-cy";
+}
+);
+width = 804;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "te-cy";
+}
+);
+width = 921;
+}
+);
+note = uni1D1B;
+unicode = 7451;
+}

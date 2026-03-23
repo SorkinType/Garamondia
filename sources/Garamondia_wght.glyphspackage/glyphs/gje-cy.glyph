@@ -1,0 +1,37 @@
+{
+glyphname = "gje-cy";
+kernLeft = dotlessi;
+kernRight = uni0433;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ge-cy";
+},
+{
+alignment = -1;
+pos = (445,0);
+ref = acutecomb;
+}
+);
+width = 729;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "ge-cy";
+},
+{
+pos = (537,0);
+ref = acutecomb;
+}
+);
+width = 856;
+}
+);
+note = uni0453;
+unicode = 1107;
+}

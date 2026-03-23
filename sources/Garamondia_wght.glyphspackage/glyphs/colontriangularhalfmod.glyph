@@ -1,0 +1,35 @@
+{
+glyphname = colontriangularhalfmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,725,l),
+(49,725,l),
+(196,490,l)
+);
+}
+);
+width = 392;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+closed = 1;
+nodes = (
+(439,772,l),
+(43,772,l),
+(241,455,l)
+);
+}
+);
+width = 480;
+}
+);
+note = uni02D1;
+unicode = 721;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = Iotamacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (341,0);
+ref = macroncomb.cap;
+}
+);
+width = 666;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 703;
+}
+);
+note = uni1FD9;
+unicode = 8153;
+}

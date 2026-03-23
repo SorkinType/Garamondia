@@ -1,0 +1,26 @@
+{
+glyphname = uniE8BF;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = q_et;
+}
+);
+width = 1405;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = q_et;
+}
+);
+width = 1503;
+}
+);
+note = uniE8BF;
+unicode = 59583;
+}

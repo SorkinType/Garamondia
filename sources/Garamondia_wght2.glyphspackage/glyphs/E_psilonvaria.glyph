@@ -1,0 +1,39 @@
+{
+glyphname = Epsilonvaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (233,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (116,47);
+ref = gravecomb.grk;
+}
+);
+width = 1339;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (83,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (123,-25);
+ref = gravecomb.grk;
+}
+);
+width = 1408;
+}
+);
+note = uni1FC8;
+unicode = 8136;
+}

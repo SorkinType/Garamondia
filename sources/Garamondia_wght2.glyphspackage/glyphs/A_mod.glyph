@@ -1,0 +1,15 @@
+{
+glyphname = Amod;
+layers = (
+{
+layerId = m01;
+width = 949;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1048;
+}
+);
+note = uni1D2C;
+unicode = 7468;
+}

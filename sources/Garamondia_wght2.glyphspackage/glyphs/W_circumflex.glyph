@@ -1,0 +1,48 @@
+{
+glyphname = Wcircumflex;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = W;
+},
+{
+alignment = -1;
+pos = (624,432);
+ref = circumflex;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (906,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 1813;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (705,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 1835;
+}
+);
+note = Wcircumflex;
+unicode = 372;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = etapsilioxiaypogegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = eta;
+},
+{
+alignment = -1;
+pos = (174,0);
+ref = psilioxia;
+},
+{
+alignment = -1;
+pos = (263,4);
+ref = ypogegrammenicomb;
+}
+);
+width = 902;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (1039,0);
+ref = psilioxia;
+},
+{
+pos = (343,4);
+ref = ypogegrammenicomb;
+}
+);
+width = 1041;
+}
+);
+note = uni1F94;
+unicode = 8084;
+}

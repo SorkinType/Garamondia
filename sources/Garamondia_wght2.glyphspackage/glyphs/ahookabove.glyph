@@ -1,0 +1,39 @@
+{
+glyphname = ahookabove;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (372,0);
+ref = hookabovecomb;
+}
+);
+width = 782;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (414,0);
+ref = hookabovecomb;
+}
+);
+width = 842;
+}
+);
+note = uni1EA3;
+unicode = 7843;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = Upsilontonos.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Upsilon.sc;
+},
+{
+alignment = -1;
+pos = (419,123);
+ref = tonos;
+}
+);
+width = 1156;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Upsilon.sc;
+},
+{
+alignment = -1;
+pos = (867,44);
+ref = tonos;
+}
+);
+width = 1569;
+}
+);
+note = Upsilontonos.sc;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = Hturned;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Che-cy";
+}
+);
+width = 1329;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Che-cy";
+}
+);
+width = 1525;
+}
+);
+note = uniA78D;
+unicode = 42893;
+}

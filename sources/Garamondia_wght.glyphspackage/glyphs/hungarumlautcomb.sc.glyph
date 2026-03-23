@@ -1,0 +1,42 @@
+{
+glyphname = hungarumlautcomb.sc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-123,862);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (122,0);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (-122,0);
+ref = acutecomb;
+}
+);
+width = 0;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (137,0);
+ref = acutecomb;
+},
+{
+pos = (-135,0);
+ref = acutecomb;
+}
+);
+width = 0;
+}
+);
+note = uni030B.sc;
+}

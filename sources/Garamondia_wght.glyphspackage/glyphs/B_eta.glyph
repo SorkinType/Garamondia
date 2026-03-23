@@ -1,0 +1,34 @@
+{
+glyphname = Beta;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1259;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = B;
+}
+);
+width = 1387;
+}
+);
+note = Beta;
+unicode = 914;
+}

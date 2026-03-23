@@ -1,0 +1,48 @@
+{
+glyphname = Nj;
+kernLeft = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1552,0);
+ref = j.dotless;
+},
+{
+alignment = -1;
+pos = (1584,0);
+ref = dotaccent;
+}
+);
+width = 1995;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1665,0);
+ref = j.dotless;
+},
+{
+alignment = -1;
+pos = (2023,0);
+ref = dotaccent;
+}
+);
+width = 2608;
+}
+);
+note = uni01CB;
+unicode = 459;
+}

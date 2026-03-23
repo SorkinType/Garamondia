@@ -1,0 +1,46 @@
+{
+glyphname = udieresismacron;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (494,37);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (506,317);
+ref = macroncomb;
+}
+);
+width = 1033;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (562,0);
+ref = dieresiscomb;
+},
+{
+pos = (547,353);
+ref = macroncomb;
+}
+);
+width = 1090;
+}
+);
+note = uni01D6;
+unicode = 470;
+}

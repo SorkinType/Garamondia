@@ -1,0 +1,29 @@
+{
+glyphname = sinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-800);
+ref = s.ordn;
+}
+);
+width = 449;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-800);
+ref = s.ordn;
+}
+);
+width = 531;
+}
+);
+note = uni209B;
+unicode = 8347;
+}

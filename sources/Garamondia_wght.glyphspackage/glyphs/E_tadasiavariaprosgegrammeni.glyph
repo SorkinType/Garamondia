@@ -1,0 +1,45 @@
+{
+glyphname = Etadasiavariaprosgegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (425,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiavaria;
+},
+{
+alignment = -1;
+pos = (1270,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 2013;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (1771,0);
+ref = dasiavaria;
+},
+{
+pos = (1442,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 2179;
+}
+);
+note = uni1F9B;
+unicode = 8091;
+}

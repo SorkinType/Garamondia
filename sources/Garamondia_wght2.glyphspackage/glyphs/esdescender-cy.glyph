@@ -1,0 +1,39 @@
+{
+glyphname = "esdescender-cy";
+kernLeft = c;
+kernRight = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (412,0);
+ref = cedillacomb;
+}
+);
+width = 798;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (400,0);
+ref = cedillacomb;
+}
+);
+width = 804;
+}
+);
+note = uni04AB;
+unicode = 1195;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = Epsilonpsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (192,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psili;
+}
+);
+width = 1297;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1451,0);
+ref = psili;
+}
+);
+width = 1931;
+}
+);
+note = uni1F18;
+unicode = 7960;
+}

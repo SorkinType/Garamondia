@@ -1,0 +1,28 @@
+{
+glyphname = perispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (290,-12);
+ref = tildecomb.stack;
+}
+);
+width = 588;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (359,27);
+ref = tildecomb.stack;
+}
+);
+width = 719;
+}
+);
+note = uni1FC0;
+unicode = 8128;
+}

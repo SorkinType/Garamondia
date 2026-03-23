@@ -1,0 +1,36 @@
+{
+glyphname = germandbls.alt;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+alignment = -1;
+pos = (633,0);
+ref = s;
+}
+);
+width = 1266;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (853,0);
+ref = s;
+}
+);
+width = 1706;
+}
+);
+note = germandbls.alt;
+}

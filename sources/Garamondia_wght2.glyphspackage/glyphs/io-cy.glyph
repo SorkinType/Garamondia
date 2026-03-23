@@ -1,0 +1,39 @@
+{
+glyphname = "io-cy";
+kernLeft = c;
+kernRight = ae;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (435,37);
+ref = dieresiscomb;
+}
+);
+width = 853;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (453,13);
+ref = dieresiscomb;
+}
+);
+width = 960;
+}
+);
+note = uni0451;
+unicode = 1105;
+}

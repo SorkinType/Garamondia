@@ -1,0 +1,28 @@
+{
+glyphname = "Je-cy";
+kernLeft = J;
+kernRight = IJ;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = J;
+}
+);
+width = 683;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = J;
+}
+);
+width = 768;
+}
+);
+note = uni0408;
+unicode = 1032;
+}

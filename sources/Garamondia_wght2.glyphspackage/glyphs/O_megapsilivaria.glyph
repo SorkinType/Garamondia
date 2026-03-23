@@ -1,0 +1,27 @@
+{
+glyphname = Omegapsilivaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (239,0);
+ref = Ohm;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psilivaria;
+}
+);
+width = 1866;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 2025;
+}
+);
+note = uni1F6A;
+unicode = 8042;
+}

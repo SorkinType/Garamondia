@@ -1,0 +1,52 @@
+{
+glyphname = uring;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (134,0);
+ref = ring;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (494,0);
+ref = ringcomb;
+}
+);
+width = 1003;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (539,0);
+ref = ringcomb;
+}
+);
+width = 1131;
+}
+);
+note = uring;
+unicode = 367;
+}

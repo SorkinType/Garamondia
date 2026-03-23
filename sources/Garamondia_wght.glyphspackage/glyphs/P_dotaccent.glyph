@@ -1,0 +1,37 @@
+{
+glyphname = Pdotaccent;
+kernLeft = B;
+kernRight = P;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = P;
+},
+{
+alignment = -1;
+pos = (561,0);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1082;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = P;
+},
+{
+pos = (647,0);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1213;
+}
+);
+note = uni1E56;
+unicode = 7766;
+}

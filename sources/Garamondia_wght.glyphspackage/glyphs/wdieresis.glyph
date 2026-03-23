@@ -1,0 +1,50 @@
+{
+glyphname = wdieresis;
+kernLeft = uni0263;
+kernRight = uni0233;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (339,0);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (672,37);
+ref = dieresiscomb;
+}
+);
+width = 1365;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (809,0);
+ref = dieresiscomb;
+}
+);
+width = 1451;
+}
+);
+note = wdieresis;
+unicode = 7813;
+}

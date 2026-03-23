@@ -1,0 +1,51 @@
+{
+glyphname = Upsilondieresis;
+kernRight = Upsilon;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (228,348);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (715,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1186;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (723,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1333;
+}
+);
+note = Upsilondieresis;
+unicode = 939;
+}

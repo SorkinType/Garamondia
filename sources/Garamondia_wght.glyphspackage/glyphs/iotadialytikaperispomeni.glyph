@@ -1,0 +1,47 @@
+{
+glyphname = iotadialytikaperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (255,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (263,300);
+ref = tildecomb.stack;
+}
+);
+width = 466;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (255,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (263,300);
+ref = tildecomb.stack;
+}
+);
+width = 466;
+}
+);
+note = uni1FD7;
+unicode = 8151;
+}

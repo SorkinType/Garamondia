@@ -1,0 +1,26 @@
+{
+glyphname = Upsilonvrachy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Upsilon;
+},
+{
+alignment = -1;
+pos = (715,0);
+ref = brevecomb.case;
+}
+);
+width = 1448;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1448;
+}
+);
+note = uni1FE8;
+unicode = 8168;
+}

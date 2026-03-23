@@ -1,0 +1,35 @@
+{
+glyphname = clicklateral;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = clickdental;
+},
+{
+alignment = -1;
+pos = (172,0);
+ref = clickdental;
+}
+);
+width = 417;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = clickdental;
+},
+{
+pos = (365,0);
+ref = clickdental;
+}
+);
+width = 730;
+}
+);
+note = uni01C1;
+unicode = 449;
+}

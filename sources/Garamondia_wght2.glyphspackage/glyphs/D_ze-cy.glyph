@@ -1,0 +1,29 @@
+{
+glyphname = "Dze-cy";
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S;
+}
+);
+width = 981;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = S;
+}
+);
+width = 1045;
+}
+);
+note = uni0405;
+unicode = 1029;
+}

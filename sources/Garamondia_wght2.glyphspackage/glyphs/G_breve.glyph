@@ -1,0 +1,48 @@
+{
+glyphname = Gbreve;
+kernLeft = C;
+kernRight = G;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = G;
+},
+{
+alignment = -1;
+pos = (448,455);
+ref = breve;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (522,490);
+ref = brevecomb.case;
+}
+);
+width = 1579;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (466,0);
+ref = brevecomb.case;
+}
+);
+width = 1493;
+}
+);
+note = Gbreve;
+unicode = 286;
+}

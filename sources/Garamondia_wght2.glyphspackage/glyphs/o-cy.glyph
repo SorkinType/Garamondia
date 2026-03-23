@@ -1,0 +1,29 @@
+{
+glyphname = "o-cy";
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+}
+);
+width = 1045;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = o;
+}
+);
+width = 1067;
+}
+);
+note = uni043E;
+unicode = 1086;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = etapsilioxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = eta;
+},
+{
+alignment = -1;
+pos = (174,0);
+ref = psilioxia;
+}
+);
+width = 902;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = eta;
+},
+{
+alignment = -1;
+pos = (729,0);
+ref = psilioxia;
+}
+);
+width = 1452;
+}
+);
+note = uni1F24;
+unicode = 7972;
+}

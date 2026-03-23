@@ -1,0 +1,27 @@
+{
+color = 3;
+glyphname = two.tosf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (37,0);
+ref = two.osf;
+}
+);
+width = 941;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = two.osf;
+}
+);
+width = 949;
+}
+);
+note = two.tosf;
+}

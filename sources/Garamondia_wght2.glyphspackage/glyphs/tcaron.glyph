@@ -1,0 +1,51 @@
+{
+glyphname = tcaron;
+kernLeft = t;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (472,-48);
+ref = commaaccent;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (498,-116);
+ref = caroncomb.altcap;
+}
+);
+width = 1024;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (611,-1);
+ref = caroncomb.altcap;
+}
+);
+width = 1024;
+}
+);
+note = tcaron;
+unicode = 357;
+}

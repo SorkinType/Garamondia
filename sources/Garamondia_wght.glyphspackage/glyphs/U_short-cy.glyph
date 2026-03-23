@@ -1,0 +1,37 @@
+{
+glyphname = "Ushort-cy";
+kernLeft = uni0423;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+alignment = -1;
+pos = (623,0);
+ref = brevecomb.cyrcap;
+}
+);
+width = 1344;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (729,0);
+ref = brevecomb.cyrcap;
+}
+);
+width = 1344;
+}
+);
+note = uni040E;
+unicode = 1038;
+}

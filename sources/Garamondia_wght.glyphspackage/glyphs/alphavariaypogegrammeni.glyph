@@ -1,0 +1,44 @@
+{
+glyphname = alphavariaypogegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (435,0);
+ref = gravecomb.grk;
+},
+{
+alignment = -1;
+pos = (535,4);
+ref = ypogegrammenicomb;
+}
+);
+width = 886;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (415,0);
+ref = gravecomb.grk;
+},
+{
+pos = (572,4);
+ref = ypogegrammenicomb;
+}
+);
+width = 1023;
+}
+);
+note = uni1FB2;
+unicode = 8114;
+}

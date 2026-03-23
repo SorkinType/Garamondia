@@ -1,0 +1,36 @@
+{
+glyphname = longs_s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = longs;
+},
+{
+alignment = -1;
+pos = (445,0);
+ref = s;
+}
+);
+width = 1078;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = longs;
+},
+{
+alignment = -1;
+pos = (557,0);
+ref = s;
+}
+);
+width = 1331;
+}
+);
+note = longs_s;
+}

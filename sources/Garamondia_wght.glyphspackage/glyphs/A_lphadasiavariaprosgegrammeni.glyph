@@ -1,0 +1,44 @@
+{
+glyphname = Alphadasiavariaprosgegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (-108,47);
+ref = dasiavaria;
+},
+{
+alignment = -1;
+pos = (723,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1356;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1344,0);
+ref = dasiavaria;
+},
+{
+pos = (672,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1423;
+}
+);
+note = uni1F8B;
+unicode = 8075;
+}

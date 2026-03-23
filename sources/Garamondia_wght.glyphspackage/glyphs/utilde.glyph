@@ -1,0 +1,50 @@
+{
+glyphname = utilde;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (171,0);
+ref = tilde;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (484,0);
+ref = tildecomb;
+}
+);
+width = 1003;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (557,0);
+ref = tildecomb;
+}
+);
+width = 1131;
+}
+);
+note = utilde;
+unicode = 361;
+}

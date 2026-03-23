@@ -1,0 +1,39 @@
+{
+glyphname = kacute;
+kernLeft = h;
+kernRight = k;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = k;
+},
+{
+alignment = -1;
+pos = (641,316);
+ref = acutecomb;
+}
+);
+width = 919;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = k;
+},
+{
+alignment = -1;
+pos = (720,316);
+ref = acutecomb;
+}
+);
+width = 1037;
+}
+);
+note = uni1E31;
+unicode = 7729;
+}

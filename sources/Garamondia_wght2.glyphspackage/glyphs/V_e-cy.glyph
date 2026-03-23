@@ -1,0 +1,29 @@
+{
+glyphname = "Ve-cy";
+kernLeft = B;
+kernRight = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1259;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = B;
+}
+);
+width = 1387;
+}
+);
+note = uni0412;
+unicode = 1042;
+}

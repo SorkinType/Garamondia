@@ -1,0 +1,36 @@
+{
+glyphname = dcaron.sc;
+kernLeft = B.sc;
+kernRight = D.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = D.sc;
+},
+{
+alignment = -1;
+pos = (539,165);
+ref = caroncomb;
+}
+);
+width = 1182;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = D.sc;
+},
+{
+pos = (610,165);
+ref = caroncomb;
+}
+);
+width = 1213;
+}
+);
+note = dcaron.sc;
+}

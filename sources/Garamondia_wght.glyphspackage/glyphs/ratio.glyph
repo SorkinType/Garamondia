@@ -1,0 +1,37 @@
+{
+glyphname = ratio;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (20,541);
+ref = period;
+},
+{
+alignment = -1;
+pos = (20,0);
+ref = period;
+}
+);
+width = 486;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (20,541);
+ref = period;
+},
+{
+pos = (20,0);
+ref = period;
+}
+);
+width = 566;
+}
+);
+note = uni2236;
+unicode = 8758;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = cuatrillocomma;
+kernLeft = uniA72D;
+kernRight = uniA72E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = cuatrillo;
+},
+{
+alignment = -1;
+pos = (798,-216);
+ref = comma;
+}
+);
+width = 1244;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = cuatrillo;
+},
+{
+pos = (890,-316);
+ref = comma;
+}
+);
+width = 1382;
+}
+);
+note = uniA72F;
+unicode = 42799;
+}

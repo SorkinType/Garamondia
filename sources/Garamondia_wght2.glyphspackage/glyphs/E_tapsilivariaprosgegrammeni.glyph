@@ -1,0 +1,32 @@
+{
+glyphname = Etapsilivariaprosgegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (427,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psilivaria;
+},
+{
+alignment = -1;
+pos = (1272,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 2015;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 2106;
+}
+);
+note = uni1F9A;
+unicode = 8090;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = tripleprime;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = minute;
+},
+{
+alignment = -1;
+pos = (270,0);
+ref = minute;
+},
+{
+alignment = -1;
+pos = (541,0);
+ref = minute;
+}
+);
+width = 890;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = minute;
+},
+{
+pos = (270,0);
+ref = minute;
+},
+{
+pos = (541,0);
+ref = minute;
+}
+);
+width = 919;
+}
+);
+note = uni2034;
+unicode = 8244;
+}

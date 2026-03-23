@@ -1,0 +1,34 @@
+{
+glyphname = longs_i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = longs._i;
+},
+{
+alignment = -1;
+pos = (537,0);
+ref = idotless;
+}
+);
+width = 1017;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = longs._i;
+},
+{
+pos = (635,0);
+ref = idotless;
+}
+);
+width = 1211;
+}
+);
+note = longs_i;
+}

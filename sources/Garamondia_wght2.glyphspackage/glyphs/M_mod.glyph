@@ -1,0 +1,15 @@
+{
+glyphname = Mmod;
+layers = (
+{
+layerId = m01;
+width = 1237;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1313;
+}
+);
+note = uni1D39;
+unicode = 7481;
+}

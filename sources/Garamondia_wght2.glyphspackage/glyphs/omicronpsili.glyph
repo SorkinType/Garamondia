@@ -1,0 +1,37 @@
+{
+glyphname = omicronpsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omicron;
+},
+{
+alignment = -1;
+pos = (198,0);
+ref = psili;
+}
+);
+width = 784;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = omicron;
+},
+{
+alignment = -1;
+pos = (744,0);
+ref = psili;
+}
+);
+width = 1262;
+}
+);
+note = uni1F40;
+unicode = 8000;
+}

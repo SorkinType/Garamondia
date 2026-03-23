@@ -1,0 +1,37 @@
+{
+glyphname = epsilonpsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = epsilon;
+},
+{
+alignment = -1;
+pos = (141,0);
+ref = psili;
+}
+);
+width = 655;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = epsilon;
+},
+{
+alignment = -1;
+pos = (601,0);
+ref = psili;
+}
+);
+width = 1093;
+}
+);
+note = uni1F10;
+unicode = 7952;
+}

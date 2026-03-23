@@ -1,0 +1,25 @@
+{
+glyphname = sigmafinal.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Sigma.sc;
+}
+);
+width = 1009;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Sigma.sc;
+}
+);
+width = 980;
+}
+);
+note = uni03C2.sc;
+}

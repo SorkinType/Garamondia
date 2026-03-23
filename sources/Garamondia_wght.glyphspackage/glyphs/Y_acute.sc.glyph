@@ -1,0 +1,36 @@
+{
+glyphname = Yacute.sc;
+kernLeft = Y.sc;
+kernRight = Y.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y.sc;
+},
+{
+alignment = -1;
+pos = (606,123);
+ref = acutecomb;
+}
+);
+width = 1000;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Y.sc;
+},
+{
+pos = (723,123);
+ref = acutecomb;
+}
+);
+width = 1186;
+}
+);
+note = Yacute.sc;
+}

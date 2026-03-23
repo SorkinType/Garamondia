@@ -1,0 +1,39 @@
+{
+color = 3;
+glyphname = i.TRK;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (47,0);
+ref = dotaccent;
+scale = (1,1.0129);
+}
+);
+width = 480;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (576,0);
+ref = dotaccent;
+scale = (1,0.9428);
+}
+);
+width = 1259;
+}
+);
+note = i.TRK;
+}

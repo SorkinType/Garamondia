@@ -1,0 +1,38 @@
+{
+glyphname = Uring.sc;
+kernLeft = U.sc;
+kernRight = U.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U.sc;
+},
+{
+alignment = -1;
+pos = (613,123);
+ref = ringcomb;
+}
+);
+width = 1176;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = U.sc;
+},
+{
+alignment = -1;
+pos = (659,123);
+ref = ringcomb;
+}
+);
+width = 1193;
+}
+);
+note = Uring.sc;
+}

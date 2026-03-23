@@ -1,0 +1,37 @@
+{
+glyphname = Alphavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (182,47);
+ref = gravecomb.grk;
+}
+);
+width = 1356;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (171,-29);
+ref = gravecomb.grk;
+}
+);
+width = 1399;
+}
+);
+note = uni1FBA;
+unicode = 8122;
+}

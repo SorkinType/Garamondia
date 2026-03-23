@@ -1,0 +1,27 @@
+{
+glyphname = psiliperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (290,251);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (284,-39);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 588;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 672;
+}
+);
+note = uni1FCF;
+unicode = 8143;
+}

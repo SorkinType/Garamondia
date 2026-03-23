@@ -1,0 +1,27 @@
+{
+glyphname = omod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-14);
+ref = o.ordn;
+}
+);
+width = 606;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = o.ordn;
+}
+);
+width = 776;
+}
+);
+note = uni1D52;
+unicode = 7506;
+}

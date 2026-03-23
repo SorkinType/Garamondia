@@ -1,0 +1,37 @@
+{
+glyphname = "Obarreddieresis-cy";
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Obarred-cy";
+},
+{
+alignment = -1;
+pos = (766,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 1495;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Obarred-cy";
+},
+{
+pos = (770,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 1487;
+}
+);
+note = uni04EA;
+unicode = 1258;
+}

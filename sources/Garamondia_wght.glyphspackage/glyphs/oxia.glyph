@@ -1,0 +1,27 @@
+{
+glyphname = oxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = tonos;
+}
+);
+width = 392;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = tonos;
+}
+);
+width = 683;
+}
+);
+note = uni1FFD;
+unicode = 8189;
+}

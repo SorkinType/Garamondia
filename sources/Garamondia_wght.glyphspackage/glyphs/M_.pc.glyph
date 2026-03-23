@@ -1,0 +1,26 @@
+{
+glyphname = M.pc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (35,0);
+ref = "em-cy";
+}
+);
+width = 1297;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "em-cy";
+}
+);
+width = 1288;
+}
+);
+note = M.pc;
+}

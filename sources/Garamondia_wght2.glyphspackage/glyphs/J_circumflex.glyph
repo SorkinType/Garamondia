@@ -1,0 +1,52 @@
+{
+glyphname = Jcircumflex;
+kernLeft = J;
+kernRight = IJ;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (-48,432);
+ref = circumflex;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (319,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 683;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = J;
+},
+{
+alignment = -1;
+pos = (371,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 768;
+}
+);
+note = Jcircumflex;
+unicode = 308;
+}

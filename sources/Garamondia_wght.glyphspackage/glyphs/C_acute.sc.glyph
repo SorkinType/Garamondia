@@ -1,0 +1,36 @@
+{
+glyphname = Cacute.sc;
+kernLeft = C.sc;
+kernRight = C.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C.sc;
+},
+{
+alignment = -1;
+pos = (715,123);
+ref = acutecomb;
+}
+);
+width = 1097;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = C.sc;
+},
+{
+pos = (702,123);
+ref = acutecomb;
+}
+);
+width = 1078;
+}
+);
+note = Cacute.sc;
+}

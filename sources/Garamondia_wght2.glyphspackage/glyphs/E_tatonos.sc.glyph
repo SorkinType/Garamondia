@@ -1,0 +1,31 @@
+{
+glyphname = Etatonos.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (647,986);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = H.sc;
+},
+{
+alignment = -1;
+pos = (494,123);
+ref = tonos;
+}
+);
+width = 1254;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1716;
+}
+);
+note = Etatonos.sc;
+}

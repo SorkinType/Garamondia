@@ -1,0 +1,15 @@
+{
+glyphname = punctuationspace;
+layers = (
+{
+layerId = m01;
+width = 447;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 915;
+}
+);
+note = uni2008;
+unicode = 8200;
+}

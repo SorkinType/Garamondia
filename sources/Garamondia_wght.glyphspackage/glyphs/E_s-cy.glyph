@@ -1,0 +1,28 @@
+{
+glyphname = "Es-cy";
+kernLeft = C;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C;
+}
+);
+width = 1301;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = C;
+}
+);
+width = 1387;
+}
+);
+note = uni0421;
+unicode = 1057;
+}

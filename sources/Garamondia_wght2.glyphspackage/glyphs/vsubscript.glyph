@@ -1,0 +1,29 @@
+{
+glyphname = vsubscript;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = v.ordn;
+}
+);
+width = 596;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = v.ordn;
+}
+);
+width = 675;
+}
+);
+note = uni1D65;
+unicode = 7525;
+}

@@ -1,0 +1,40 @@
+{
+color = 3;
+glyphname = "yeru-cy";
+kernLeft = dotlessi;
+kernRight = uni0434;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "softsign-cy";
+},
+{
+alignment = -1;
+pos = (707,0);
+ref = Ismall;
+scale = (1,1.0129);
+}
+);
+width = 1278;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "softsign-cy";
+},
+{
+pos = (1033,0);
+ref = Ismall;
+scale = (1,0.9428);
+}
+);
+width = 1652;
+}
+);
+note = uni044B;
+unicode = 1099;
+}

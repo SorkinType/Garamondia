@@ -1,0 +1,36 @@
+{
+glyphname = jcaron;
+kernLeft = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = j.dotless;
+},
+{
+alignment = -1;
+pos = (227,0);
+ref = caroncomb;
+}
+);
+width = 443;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = j.dotless;
+},
+{
+pos = (267,0);
+ref = caroncomb;
+}
+);
+width = 539;
+}
+);
+note = uni01F0;
+unicode = 496;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = ymacron;
+kernLeft = uni01B4;
+kernRight = uni0233;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (474,20);
+ref = macroncomb;
+}
+);
+width = 858;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (562,25);
+ref = macroncomb;
+}
+);
+width = 962;
+}
+);
+note = uni0233;
+unicode = 563;
+}

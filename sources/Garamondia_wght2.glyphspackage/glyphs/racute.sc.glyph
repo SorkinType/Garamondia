@@ -1,0 +1,38 @@
+{
+glyphname = racute.sc;
+kernLeft = B.sc;
+kernRight = R.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = R.sc;
+},
+{
+alignment = -1;
+pos = (578,123);
+ref = acutecomb;
+}
+);
+width = 1058;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = R.sc;
+},
+{
+alignment = -1;
+pos = (590,123);
+ref = acutecomb;
+}
+);
+width = 1188;
+}
+);
+note = racute.sc;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = omegapsiliypogegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omega;
+},
+{
+alignment = -1;
+pos = (374,0);
+ref = psili;
+},
+{
+alignment = -1;
+pos = (598,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1101;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (1301,0);
+ref = psili;
+},
+{
+pos = (619,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1205;
+}
+);
+note = uni1FA0;
+unicode = 8096;
+}

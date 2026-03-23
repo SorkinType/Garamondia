@@ -1,0 +1,54 @@
+{
+glyphname = breve;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(133,1130,o),
+(188,1054,qs),
+(262,951,o),
+(375,951,qs),
+(472,951,o),
+(622,1110,o),
+(625,1232,q),
+(592,1232,l),
+(578,1154,o),
+(467,1065,o),
+(377,1065,qs),
+(287,1065,o),
+(177,1152,o),
+(161,1233,q),
+(133,1233,l),
+(133,1221,ls)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (294,0);
+ref = brevecomb;
+}
+);
+width = 683;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (336,0);
+ref = brevecomb;
+}
+);
+width = 683;
+}
+);
+note = breve;
+unicode = 728;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = Oslashacute;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = Oslash;
+},
+{
+alignment = -1;
+pos = (544,436);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Oslash;
+},
+{
+alignment = -1;
+pos = (854,0);
+ref = acutecomb.cap;
+}
+);
+width = 1600;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Oslash;
+},
+{
+pos = (872,0);
+ref = acutecomb.cap;
+}
+);
+width = 1621;
+}
+);
+note = Oslashacute;
+unicode = 510;
+}

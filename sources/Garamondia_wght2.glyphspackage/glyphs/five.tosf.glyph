@@ -1,0 +1,29 @@
+{
+color = 3;
+glyphname = five.tosf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (106,0);
+ref = five.osf;
+}
+);
+width = 941;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (38,0);
+ref = five.osf;
+}
+);
+width = 805;
+}
+);
+note = five.tosf;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = Etapsilivaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (427,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psilivaria;
+}
+);
+width = 2015;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 2320;
+}
+);
+note = uni1F2A;
+unicode = 7978;
+}

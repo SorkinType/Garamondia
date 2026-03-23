@@ -1,0 +1,26 @@
+{
+glyphname = Alphaprosgegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (723,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1356;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1399;
+}
+);
+note = uni1FBC;
+unicode = 8124;
+}

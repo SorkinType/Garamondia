@@ -1,0 +1,52 @@
+{
+glyphname = Idotaccent;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (15,429);
+ref = dotaccent;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (333,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 725;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (358,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 600;
+}
+);
+note = Idotaccent;
+unicode = 304;
+}

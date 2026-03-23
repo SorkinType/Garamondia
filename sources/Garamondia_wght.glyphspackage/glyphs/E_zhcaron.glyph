@@ -1,0 +1,37 @@
+{
+glyphname = Ezhcaron;
+kernLeft = uni0186;
+kernRight = uni01B7;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Ezh;
+},
+{
+alignment = -1;
+pos = (498,0);
+ref = caroncomb.cap;
+}
+);
+width = 1009;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (562,0);
+ref = caroncomb.cap;
+}
+);
+width = 1094;
+}
+);
+note = uni01EE;
+unicode = 494;
+}

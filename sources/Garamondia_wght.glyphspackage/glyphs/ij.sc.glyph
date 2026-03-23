@@ -1,0 +1,36 @@
+{
+glyphname = ij.sc;
+kernLeft = B.sc;
+kernRight = IJ.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I.sc;
+},
+{
+alignment = -1;
+pos = (578,0);
+ref = J.sc;
+}
+);
+width = 1180;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = I.sc;
+},
+{
+pos = (666,0);
+ref = J.sc;
+}
+);
+width = 1377;
+}
+);
+note = ij.sc;
+}

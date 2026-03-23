@@ -1,0 +1,37 @@
+{
+glyphname = Ldot.sc;
+kernLeft = B.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L.sc;
+},
+{
+alignment = -1;
+pos = (617,431);
+ref = period;
+}
+);
+width = 921;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = L.sc;
+},
+{
+alignment = -1;
+pos = (604,427);
+ref = period;
+}
+);
+width = 959;
+}
+);
+note = Ldot.sc;
+}

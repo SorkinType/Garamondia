@@ -1,0 +1,53 @@
+{
+glyphname = "Eight-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (1272,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (1899,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (2534,0);
+ref = I;
+}
+);
+width = 3200;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (1365,0);
+ref = I;
+},
+{
+pos = (2176,0);
+ref = I;
+},
+{
+pos = (2987,0);
+ref = I;
+}
+);
+width = 3798;
+}
+);
+note = uni2167;
+unicode = 8551;
+}

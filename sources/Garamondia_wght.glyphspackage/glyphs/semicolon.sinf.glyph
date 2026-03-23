@@ -1,0 +1,36 @@
+{
+glyphname = semicolon.sinf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-4,-529);
+ref = period.ordn;
+},
+{
+alignment = -1;
+pos = (-4,-831);
+ref = comma.ordn;
+}
+);
+width = 329;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (-12,-529);
+ref = period.ordn;
+},
+{
+pos = (0,-831);
+ref = comma.ordn;
+}
+);
+width = 308;
+}
+);
+note = semicolon.sinf;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = upsilondialytikaperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (445,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (453,300);
+ref = tildecomb.stack;
+}
+);
+width = 851;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (445,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (453,300);
+ref = tildecomb.stack;
+}
+);
+width = 851;
+}
+);
+note = uni1FE7;
+unicode = 8167;
+}

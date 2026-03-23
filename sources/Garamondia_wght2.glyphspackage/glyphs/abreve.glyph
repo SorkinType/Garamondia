@@ -1,0 +1,52 @@
+{
+glyphname = abreve;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (78,0);
+ref = breve;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (394,0);
+ref = brevecomb;
+}
+);
+width = 832;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (428,0);
+ref = brevecomb;
+}
+);
+width = 981;
+}
+);
+note = abreve;
+unicode = 259;
+}

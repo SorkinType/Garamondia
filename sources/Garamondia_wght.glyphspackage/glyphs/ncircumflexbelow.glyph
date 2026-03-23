@@ -1,0 +1,37 @@
+{
+glyphname = ncircumflexbelow;
+kernLeft = dotlessi;
+kernRight = h;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (521,-1384);
+ref = circumflexcomb;
+}
+);
+width = 1035;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (568,-1390);
+ref = circumflexcomb;
+}
+);
+width = 1125;
+}
+);
+note = uni1E4B;
+unicode = 7755;
+}

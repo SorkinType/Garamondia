@@ -1,0 +1,39 @@
+{
+glyphname = Vtilde;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (700,0);
+ref = tildecomb.case;
+}
+);
+width = 1317;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (759,0);
+ref = tildecomb.case;
+}
+);
+width = 1370;
+}
+);
+note = uni1E7C;
+unicode = 7804;
+}

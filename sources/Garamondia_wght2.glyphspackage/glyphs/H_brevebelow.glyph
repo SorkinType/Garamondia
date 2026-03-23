@@ -1,0 +1,39 @@
+{
+glyphname = Hbrevebelow;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (794,-1764);
+ref = brevecomb.case;
+}
+);
+width = 1587;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = H;
+},
+{
+alignment = -1;
+pos = (786,-1764);
+ref = brevecomb.case;
+}
+);
+width = 1574;
+}
+);
+note = uni1E2A;
+unicode = 7722;
+}

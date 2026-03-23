@@ -1,0 +1,49 @@
+{
+glyphname = adieresismacron;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (394,37);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (406,317);
+ref = macroncomb;
+}
+);
+width = 782;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (424,13);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (440,340);
+ref = macroncomb;
+}
+);
+width = 842;
+}
+);
+note = uni01DF;
+unicode = 479;
+}

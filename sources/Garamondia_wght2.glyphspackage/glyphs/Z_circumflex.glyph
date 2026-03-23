@@ -1,0 +1,38 @@
+{
+glyphname = Zcircumflex;
+kernRight = Z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (615,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 1182;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (627,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 1172;
+}
+);
+note = uni1E90;
+unicode = 7824;
+}

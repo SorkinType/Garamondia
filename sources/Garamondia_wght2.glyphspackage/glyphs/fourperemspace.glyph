@@ -1,0 +1,15 @@
+{
+glyphname = fourperemspace;
+layers = (
+{
+layerId = m01;
+width = 490;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 930;
+}
+);
+note = uni2005;
+unicode = 8197;
+}

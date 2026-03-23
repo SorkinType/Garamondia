@@ -1,0 +1,38 @@
+{
+glyphname = ccaron.sc;
+kernLeft = C.sc;
+kernRight = C.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C.sc;
+},
+{
+alignment = -1;
+pos = (629,165);
+ref = caroncomb;
+}
+);
+width = 1097;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = C.sc;
+},
+{
+alignment = -1;
+pos = (646,165);
+ref = caroncomb;
+}
+);
+width = 1085;
+}
+);
+note = ccaron.sc;
+}

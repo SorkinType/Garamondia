@@ -1,0 +1,27 @@
+{
+glyphname = "numeral-greek";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = quotesingle;
+}
+);
+width = 349;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (4,0);
+ref = quotesingle;
+}
+);
+width = 474;
+}
+);
+note = uni0374;
+unicode = 884;
+}

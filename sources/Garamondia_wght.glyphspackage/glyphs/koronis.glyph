@@ -1,0 +1,26 @@
+{
+glyphname = koronis;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = apostrophemod;
+}
+);
+width = 392;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = apostrophemod;
+}
+);
+width = 480;
+}
+);
+note = uni1FBD;
+unicode = 8125;
+}

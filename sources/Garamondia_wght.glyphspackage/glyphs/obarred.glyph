@@ -1,0 +1,28 @@
+{
+glyphname = obarred;
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "obarred-cy";
+}
+);
+width = 970;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "obarred-cy";
+}
+);
+width = 990;
+}
+);
+note = uni0275;
+unicode = 629;
+}

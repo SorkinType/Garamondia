@@ -1,0 +1,52 @@
+{
+glyphname = Eacute;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (331,422);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (672,0);
+ref = acutecomb.cap;
+}
+);
+width = 1344;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (684,0);
+ref = acutecomb.cap;
+}
+);
+width = 1451;
+}
+);
+note = Eacute;
+unicode = 201;
+}

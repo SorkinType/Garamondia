@@ -1,0 +1,37 @@
+{
+glyphname = eight_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = eight.osf;
+},
+{
+alignment = -1;
+pos = (886,0);
+ref = period;
+}
+);
+width = 1337;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = eight.osf;
+},
+{
+alignment = -1;
+pos = (935,0);
+ref = period;
+}
+);
+width = 1412;
+}
+);
+note = uni248F;
+unicode = 9359;
+}

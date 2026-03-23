@@ -1,0 +1,45 @@
+{
+glyphname = Etapsiliperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (425,0);
+ref = H;
+},
+{
+alignment = -1;
+pos = (192,298);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (186,8);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 2013;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (261,290);
+ref = tildecomb.stack;
+},
+{
+pos = (253,-41);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 2001;
+}
+);
+note = uni1F2E;
+unicode = 7982;
+}

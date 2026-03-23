@@ -1,0 +1,37 @@
+{
+glyphname = iotadasiaoxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-53,0);
+ref = dasiaoxia;
+}
+);
+width = 466;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (292,0);
+ref = dasiaoxia;
+}
+);
+width = 939;
+}
+);
+note = uni1F35;
+unicode = 7989;
+}

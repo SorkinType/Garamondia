@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = f.DEU;
+kernLeft = f;
+kernRight = f;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = f;
+}
+);
+width = 623;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = f;
+}
+);
+width = 619;
+}
+);
+note = f.DEU;
+}

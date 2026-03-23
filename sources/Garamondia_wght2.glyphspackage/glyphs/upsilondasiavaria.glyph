@@ -1,0 +1,37 @@
+{
+glyphname = upsilondasiavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (104,0);
+ref = dasiavaria;
+}
+);
+width = 851;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (611,0);
+ref = dasiavaria;
+}
+);
+width = 1340;
+}
+);
+note = uni1F53;
+unicode = 8019;
+}

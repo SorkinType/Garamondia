@@ -1,0 +1,50 @@
+{
+glyphname = Ntilde;
+kernLeft = B;
+kernRight = N;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (448,371);
+ref = tilde;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (831,0);
+ref = tildecomb.cap;
+}
+);
+width = 1579;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (843,0);
+ref = tildecomb.cap;
+}
+);
+width = 1728;
+}
+);
+note = Ntilde;
+unicode = 209;
+}

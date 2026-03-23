@@ -1,0 +1,50 @@
+{
+glyphname = cacute;
+kernLeft = c;
+kernRight = c;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (125,0);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (555,0);
+ref = acutecomb;
+}
+);
+width = 853;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (549,0);
+ref = acutecomb;
+}
+);
+width = 960;
+}
+);
+note = cacute;
+unicode = 263;
+}

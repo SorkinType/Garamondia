@@ -1,0 +1,44 @@
+{
+glyphname = iotapsiliperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (231,251);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (225,-39);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 466;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (288,361);
+ref = tildecomb.stack;
+},
+{
+pos = (280,29);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 586;
+}
+);
+note = uni1F36;
+unicode = 7990;
+}

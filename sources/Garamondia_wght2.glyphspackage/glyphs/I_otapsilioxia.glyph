@@ -1,0 +1,27 @@
+{
+glyphname = Iotapsilioxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (427,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psilioxia;
+}
+);
+width = 1094;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1374;
+}
+);
+note = uni1F3C;
+unicode = 7996;
+}

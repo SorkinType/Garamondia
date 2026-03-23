@@ -1,0 +1,28 @@
+{
+glyphname = u.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = u.ordn;
+}
+);
+width = 737;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = u.ordn;
+}
+);
+width = 785;
+}
+);
+note = u.subs;
+}

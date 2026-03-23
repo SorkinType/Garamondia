@@ -1,0 +1,37 @@
+{
+glyphname = Edieresis.sc;
+kernLeft = B.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E.sc;
+},
+{
+alignment = -1;
+pos = (484,135);
+ref = dieresiscomb;
+}
+);
+width = 941;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = E.sc;
+},
+{
+alignment = -1;
+pos = (496,109);
+ref = dieresiscomb;
+}
+);
+width = 958;
+}
+);
+note = Edieresis.sc;
+}

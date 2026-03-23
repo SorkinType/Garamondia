@@ -1,0 +1,68 @@
+{
+glyphname = threeeighths;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (6,0);
+ref = threesuperior;
+},
+{
+alignment = -1;
+pos = (651,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (1048,-628);
+ref = eightsuperior;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-14);
+ref = three.ordn;
+},
+{
+alignment = -1;
+pos = (557,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (655,-584);
+ref = eight.ordn;
+}
+);
+width = 1685;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-14);
+ref = three.ordn;
+},
+{
+alignment = -1;
+pos = (574,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (672,-584);
+ref = eight.ordn;
+}
+);
+width = 1707;
+}
+);
+note = threeeighths;
+unicode = 8540;
+}

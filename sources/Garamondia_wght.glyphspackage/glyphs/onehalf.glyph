@@ -1,0 +1,62 @@
+{
+glyphname = onehalf;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = onesuperior;
+},
+{
+alignment = -1;
+pos = (1008,-620);
+ref = twosuperior;
+},
+{
+alignment = -1;
+pos = (620,0);
+ref = fraction;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = one.ordn;
+},
+{
+alignment = -1;
+pos = (662,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (817,-576);
+ref = two.ordn;
+}
+);
+width = 1664;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = one.ordn;
+},
+{
+pos = (623,0);
+ref = fraction;
+},
+{
+pos = (723,-576);
+ref = two.ordn;
+}
+);
+width = 1707;
+}
+);
+note = onehalf;
+unicode = 189;
+}

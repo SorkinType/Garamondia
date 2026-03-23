@@ -1,0 +1,28 @@
+{
+glyphname = h.pc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (31,0);
+ref = "en-cy";
+}
+);
+width = 1084;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (11,0);
+ref = "en-cy";
+}
+);
+width = 1149;
+}
+);
+note = h.pc;
+}

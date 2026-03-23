@@ -1,0 +1,36 @@
+{
+glyphname = Otilde.sc;
+kernLeft = C.sc;
+kernRight = D.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O.sc;
+},
+{
+alignment = -1;
+pos = (621,157);
+ref = tildecomb;
+}
+);
+width = 1207;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = O.sc;
+},
+{
+pos = (633,157);
+ref = tildecomb;
+}
+);
+width = 1239;
+}
+);
+note = Otilde.sc;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = "hundred-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = c;
+}
+);
+width = 798;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = c;
+}
+);
+width = 960;
+}
+);
+note = uni217D;
+unicode = 8573;
+}

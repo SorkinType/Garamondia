@@ -1,0 +1,47 @@
+{
+glyphname = iotadialytikavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (253,37);
+ref = dieresiscomb.grkstacksc;
+},
+{
+alignment = -1;
+pos = (198,92);
+ref = gravecomb.grksc;
+}
+);
+width = 466;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (263,41);
+ref = dieresiscomb.grkstacksc;
+},
+{
+alignment = -1;
+pos = (184,226);
+ref = gravecomb.grksc;
+}
+);
+width = 543;
+}
+);
+note = uni1FD2;
+unicode = 8146;
+}

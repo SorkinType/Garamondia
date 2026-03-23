@@ -1,0 +1,49 @@
+{
+glyphname = udieresiscaron;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (484,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (480,290);
+ref = caroncomb.stack;
+}
+);
+width = 1033;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (517,-13);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (517,333);
+ref = caroncomb.stack;
+}
+);
+width = 1070;
+}
+);
+note = uni01DA;
+unicode = 474;
+}

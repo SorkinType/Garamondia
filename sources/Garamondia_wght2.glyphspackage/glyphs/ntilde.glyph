@@ -1,0 +1,52 @@
+{
+glyphname = ntilde;
+kernLeft = dotlessi;
+kernRight = h;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (181,0);
+ref = tilde;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (521,0);
+ref = tildecomb;
+}
+);
+width = 1045;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (555,0);
+ref = tildecomb;
+}
+);
+width = 1131;
+}
+);
+note = ntilde;
+unicode = 241;
+}

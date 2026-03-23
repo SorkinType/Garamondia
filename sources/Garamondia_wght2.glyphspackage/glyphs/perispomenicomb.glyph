@@ -1,0 +1,29 @@
+{
+glyphname = perispomenicomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-4,-45);
+ref = tildecomb.stack;
+}
+);
+width = 0;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (284,-20);
+ref = tildecomb.stack;
+}
+);
+width = 571;
+}
+);
+note = uni0342;
+unicode = 834;
+}

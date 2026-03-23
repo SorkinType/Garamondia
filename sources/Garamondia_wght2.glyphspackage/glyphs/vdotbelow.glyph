@@ -1,0 +1,39 @@
+{
+glyphname = vdotbelow;
+kernLeft = uni0263;
+kernRight = uni0233;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = v;
+},
+{
+alignment = -1;
+pos = (233,-1388);
+ref = dotaccent;
+}
+);
+width = 858;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = v;
+},
+{
+alignment = -1;
+pos = (686,-497);
+ref = dotaccent;
+}
+);
+width = 1349;
+}
+);
+note = uni1E7F;
+unicode = 7807;
+}

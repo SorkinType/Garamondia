@@ -1,0 +1,36 @@
+{
+glyphname = ubreve.sc;
+kernLeft = U.sc;
+kernRight = U.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U.sc;
+},
+{
+alignment = -1;
+pos = (613,123);
+ref = brevecomb;
+}
+);
+width = 1176;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = U.sc;
+},
+{
+pos = (688,123);
+ref = brevecomb;
+}
+);
+width = 1203;
+}
+);
+note = ubreve.sc;
+}

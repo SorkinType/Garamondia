@@ -1,0 +1,39 @@
+{
+glyphname = "abreve-cy";
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (390,0);
+ref = brevecomb.cyr;
+}
+);
+width = 782;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (423,0);
+ref = brevecomb.cyr;
+}
+);
+width = 842;
+}
+);
+note = uni04D1;
+unicode = 1233;
+}

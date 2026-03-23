@@ -1,0 +1,50 @@
+{
+glyphname = Epsilontonos;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (133,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (-308,-23);
+ref = tonos;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (278,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (-61,27);
+ref = tonos;
+}
+);
+width = 1477;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1451,0);
+ref = tonos;
+}
+);
+width = 2134;
+}
+);
+note = Epsilontonos;
+unicode = 904;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = "Yeru-cy";
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Softsign-cy";
+},
+{
+alignment = -1;
+pos = (1048,0);
+ref = I;
+}
+);
+width = 1859;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Softsign-cy";
+},
+{
+pos = (1387,0);
+ref = I;
+}
+);
+width = 2198;
+}
+);
+note = uni042B;
+unicode = 1067;
+}

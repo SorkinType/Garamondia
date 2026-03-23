@@ -1,0 +1,38 @@
+{
+glyphname = germandbls.sc;
+kernLeft = S.sc;
+kernRight = S.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S.sc;
+},
+{
+alignment = -1;
+pos = (862,0);
+ref = S.sc;
+}
+);
+width = 1725;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = S.sc;
+},
+{
+alignment = -1;
+pos = (868,0);
+ref = S.sc;
+}
+);
+width = 1737;
+}
+);
+note = germandbls.sc;
+}

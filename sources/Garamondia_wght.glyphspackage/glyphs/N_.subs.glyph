@@ -1,0 +1,27 @@
+{
+glyphname = N.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-549);
+ref = N.ordn;
+}
+);
+width = 1115;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,-519);
+ref = N.ordn;
+}
+);
+width = 1186;
+}
+);
+note = N.subs;
+}

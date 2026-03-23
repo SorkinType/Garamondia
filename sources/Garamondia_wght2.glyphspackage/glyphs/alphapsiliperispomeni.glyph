@@ -1,0 +1,47 @@
+{
+glyphname = alphapsiliperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (463,251);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (457,-39);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 886;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (500,322);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (493,5);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 974;
+}
+);
+note = uni1F06;
+unicode = 7942;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = Omacron.sc;
+kernLeft = C.sc;
+kernRight = D.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O.sc;
+},
+{
+alignment = -1;
+pos = (608,145);
+ref = macroncomb;
+}
+);
+width = 1207;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = O.sc;
+},
+{
+alignment = -1;
+pos = (620,149);
+ref = macroncomb;
+}
+);
+width = 1228;
+}
+);
+note = Omacron.sc;
+}

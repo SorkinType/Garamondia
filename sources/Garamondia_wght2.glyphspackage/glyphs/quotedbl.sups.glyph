@@ -1,0 +1,38 @@
+{
+glyphname = quotedbl.sups;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (151,314);
+ref = quotesingle.ordn;
+},
+{
+alignment = -1;
+pos = (0,314);
+ref = quotesingle.ordn;
+}
+);
+width = 325;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (181,314);
+ref = quotesingle.ordn;
+},
+{
+alignment = -1;
+pos = (0,314);
+ref = quotesingle.ordn;
+}
+);
+width = 414;
+}
+);
+note = quotedbl.sups;
+}

@@ -1,0 +1,40 @@
+{
+glyphname = napostrophe.sc;
+kernLeft = B.sc;
+kernRight = N.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (69,0);
+ref = N.sc;
+},
+{
+alignment = -1;
+pos = (0,-67);
+ref = caroncomb.altcap;
+}
+);
+width = 1254;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (25,0);
+ref = N.sc;
+},
+{
+alignment = -1;
+pos = (0,-67);
+ref = caroncomb.altcap;
+}
+);
+width = 1323;
+}
+);
+note = napostrophe.sc;
+}

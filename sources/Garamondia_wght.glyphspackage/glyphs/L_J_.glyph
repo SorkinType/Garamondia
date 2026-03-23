@@ -1,0 +1,37 @@
+{
+glyphname = LJ;
+kernLeft = B;
+kernRight = IJ;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (1145,0);
+ref = J;
+}
+);
+width = 1811;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (1301,0);
+ref = J;
+}
+);
+width = 2069;
+}
+);
+note = uni01C7;
+unicode = 455;
+}

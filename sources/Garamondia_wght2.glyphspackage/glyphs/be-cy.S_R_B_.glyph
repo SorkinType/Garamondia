@@ -1,0 +1,30 @@
+{
+color = 3;
+glyphname = "be-cy.SRB";
+kernLeft = eth;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "delta-latin";
+scale = (1,1.0129);
+}
+);
+width = 943;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = "delta-latin";
+scale = (1,0.9679);
+}
+);
+width = 973;
+}
+);
+note = uni0431.SRB;
+}

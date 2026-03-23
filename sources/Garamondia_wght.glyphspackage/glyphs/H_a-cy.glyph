@@ -1,0 +1,28 @@
+{
+glyphname = "Ha-cy";
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = X;
+}
+);
+width = 1429;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = X;
+}
+);
+width = 1408;
+}
+);
+note = uni0425;
+unicode = 1061;
+}

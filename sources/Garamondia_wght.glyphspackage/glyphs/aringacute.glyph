@@ -1,0 +1,64 @@
+{
+glyphname = aringacute;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (3,0);
+ref = ring;
+},
+{
+alignment = -1;
+pos = (101,376);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (365,-35);
+ref = ringcomb;
+},
+{
+alignment = -1;
+pos = (398,259);
+ref = acutecomb.flat;
+}
+);
+width = 832;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (441,-49);
+ref = ringcomb;
+},
+{
+pos = (484,317);
+ref = acutecomb.flat;
+}
+);
+width = 981;
+}
+);
+note = aringacute;
+unicode = 507;
+}

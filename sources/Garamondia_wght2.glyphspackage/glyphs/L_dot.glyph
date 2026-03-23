@@ -1,0 +1,52 @@
+{
+glyphname = Ldot;
+kernLeft = B;
+kernRight = L;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (412,-484);
+ref = dotaccent;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (731,-396);
+ref = dotaccent;
+}
+);
+width = 1173;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (1097,-142);
+ref = dotaccent;
+}
+);
+width = 1301;
+}
+);
+note = Ldot;
+unicode = 319;
+}

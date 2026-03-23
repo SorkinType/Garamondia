@@ -1,0 +1,37 @@
+{
+glyphname = Ddotbelow;
+kernLeft = B;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+alignment = -1;
+pos = (709,-1764);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1478;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (713,-1791);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1507;
+}
+);
+note = uni1E0C;
+unicode = 7692;
+}

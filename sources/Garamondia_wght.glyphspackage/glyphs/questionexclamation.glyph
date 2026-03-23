@@ -1,0 +1,36 @@
+{
+glyphname = questionexclamation;
+kernLeft = question;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = question;
+},
+{
+alignment = -1;
+pos = (570,0);
+ref = exclam;
+}
+);
+width = 1060;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = question;
+},
+{
+pos = (641,0);
+ref = exclam;
+}
+);
+width = 1227;
+}
+);
+note = uni2048;
+unicode = 8264;
+}

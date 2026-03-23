@@ -1,0 +1,36 @@
+{
+glyphname = jstroke;
+kernLeft = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = jdotlessstroke;
+},
+{
+alignment = -1;
+pos = (43,0);
+ref = dotaccent;
+}
+);
+width = 415;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = jdotlessstroke;
+},
+{
+pos = (541,0);
+ref = dotaccent;
+}
+);
+width = 1224;
+}
+);
+note = uni0249;
+unicode = 585;
+}

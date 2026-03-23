@@ -1,0 +1,53 @@
+{
+glyphname = omegapsiliperispomeniypogegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omega;
+},
+{
+alignment = -1;
+pos = (578,251);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (572,-39);
+ref = commaabovecomb.grkstack;
+},
+{
+alignment = -1;
+pos = (598,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1101;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (627,361);
+ref = tildecomb.stack;
+},
+{
+pos = (619,29);
+ref = commaabovecomb.grkstack;
+},
+{
+pos = (619,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1205;
+}
+);
+note = uni1FA6;
+unicode = 8102;
+}

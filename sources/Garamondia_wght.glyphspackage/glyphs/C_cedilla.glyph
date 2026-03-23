@@ -1,0 +1,50 @@
+{
+glyphname = Ccedilla;
+kernLeft = C;
+kernRight = C;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (640,0);
+ref = cedilla;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (739,0);
+ref = cedillacomb.cap;
+}
+);
+width = 1301;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (731,0);
+ref = cedillacomb.cap;
+}
+);
+width = 1387;
+}
+);
+note = Ccedilla;
+unicode = 199;
+}

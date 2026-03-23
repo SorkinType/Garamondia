@@ -1,0 +1,37 @@
+{
+glyphname = "Zhedieresis-cy";
+kernLeft = uni0416;
+kernRight = uni0416;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Zhe-cy";
+},
+{
+alignment = -1;
+pos = (962,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 1925;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Zhe-cy";
+},
+{
+pos = (1035,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 2073;
+}
+);
+note = uni04DC;
+unicode = 1244;
+}

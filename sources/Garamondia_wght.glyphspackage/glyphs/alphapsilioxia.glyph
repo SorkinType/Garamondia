@@ -1,0 +1,35 @@
+{
+glyphname = alphapsilioxia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (194,0);
+ref = psilioxia;
+}
+);
+width = 886;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (1022,0);
+ref = psilioxia;
+}
+);
+width = 1741;
+}
+);
+note = uni1F04;
+unicode = 7940;
+}

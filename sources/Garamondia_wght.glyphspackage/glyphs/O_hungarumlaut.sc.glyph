@@ -1,0 +1,45 @@
+{
+glyphname = Ohungarumlaut.sc;
+kernLeft = C.sc;
+kernRight = D.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O.sc;
+},
+{
+alignment = -1;
+pos = (856,123);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (613,123);
+ref = acutecomb;
+}
+);
+width = 1207;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = O.sc;
+},
+{
+pos = (923,123);
+ref = acutecomb;
+},
+{
+pos = (651,123);
+ref = acutecomb;
+}
+);
+width = 1239;
+}
+);
+note = Ohungarumlaut.sc;
+}

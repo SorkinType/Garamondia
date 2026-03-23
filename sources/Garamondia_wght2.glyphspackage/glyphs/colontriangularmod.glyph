@@ -1,0 +1,67 @@
+{
+glyphname = colontriangularmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(196,237,l),
+(49,2,l),
+(343,2,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(343,725,l),
+(49,725,l),
+(196,490,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(343,725,l),
+(49,725,l),
+(196,490,l)
+);
+}
+);
+width = 392;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,259,l),
+(0,-28,l),
+(360,-28,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(360,755,l),
+(0,755,l),
+(180,468,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(360,755,l),
+(0,755,l),
+(180,468,l)
+);
+}
+);
+width = 360;
+}
+);
+note = uni02D0;
+unicode = 720;
+}

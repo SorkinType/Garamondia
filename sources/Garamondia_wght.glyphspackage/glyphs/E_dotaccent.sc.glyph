@@ -1,0 +1,35 @@
+{
+glyphname = Edotaccent.sc;
+kernLeft = B.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E.sc;
+},
+{
+alignment = -1;
+pos = (480,-282);
+ref = dotaccentcomb.cap;
+}
+);
+width = 941;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E.sc;
+},
+{
+pos = (498,-282);
+ref = dotaccentcomb.cap;
+}
+);
+width = 968;
+}
+);
+note = Edotaccent.sc;
+}

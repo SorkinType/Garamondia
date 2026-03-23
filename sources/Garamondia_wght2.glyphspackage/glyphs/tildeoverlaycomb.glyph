@@ -1,0 +1,29 @@
+{
+glyphname = tildeoverlaycomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-490,0);
+ref = asciitilde;
+}
+);
+width = 0;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (-79,0);
+ref = asciitilde;
+}
+);
+width = 891;
+}
+);
+note = uni0334;
+unicode = 820;
+}

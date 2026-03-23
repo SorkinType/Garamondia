@@ -1,0 +1,35 @@
+{
+glyphname = Omegaprosgegrammeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Ohm;
+},
+{
+alignment = -1;
+pos = (864,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1627;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Ohm;
+},
+{
+pos = (862,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 1634;
+}
+);
+note = uni1FFC;
+unicode = 8188;
+}

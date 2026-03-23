@@ -1,0 +1,50 @@
+{
+glyphname = emacron;
+kernLeft = c;
+kernRight = ae;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (99,0);
+ref = macron;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (435,20);
+ref = macroncomb;
+}
+);
+width = 853;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (468,25);
+ref = macroncomb;
+}
+);
+width = 960;
+}
+);
+note = emacron;
+unicode = 275;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = Omega.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (635,986);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omega.sc;
+}
+);
+width = 1293;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1273;
+}
+);
+note = uni03A9.sc;
+}

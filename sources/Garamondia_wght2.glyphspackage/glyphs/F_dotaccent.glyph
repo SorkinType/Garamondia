@@ -1,0 +1,39 @@
+{
+glyphname = Fdotaccent;
+kernLeft = B;
+kernRight = F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = F;
+},
+{
+alignment = -1;
+pos = (549,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1003;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = F;
+},
+{
+alignment = -1;
+pos = (584,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 1056;
+}
+);
+note = uni1E1E;
+unicode = 7710;
+}

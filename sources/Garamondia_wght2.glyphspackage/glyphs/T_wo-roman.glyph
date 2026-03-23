@@ -1,0 +1,37 @@
+{
+glyphname = "Two-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (631,0);
+ref = I;
+}
+);
+width = 1297;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (747,0);
+ref = I;
+}
+);
+width = 1506;
+}
+);
+note = uni2161;
+unicode = 8545;
+}

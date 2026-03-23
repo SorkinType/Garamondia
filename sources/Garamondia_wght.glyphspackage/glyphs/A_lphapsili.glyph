@@ -1,0 +1,35 @@
+{
+glyphname = Alphapsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (45,47);
+ref = psili;
+}
+);
+width = 1356;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1344,0);
+ref = psili;
+}
+);
+width = 1824;
+}
+);
+note = uni1F08;
+unicode = 7944;
+}

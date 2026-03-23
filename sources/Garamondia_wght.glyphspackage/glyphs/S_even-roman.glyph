@@ -1,0 +1,44 @@
+{
+glyphname = "Seven-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = V;
+},
+{
+alignment = -1;
+pos = (1278,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (1944,0);
+ref = I;
+}
+);
+width = 2610;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (1365,0);
+ref = I;
+},
+{
+pos = (2176,0);
+ref = I;
+}
+);
+width = 2987;
+}
+);
+note = uni2166;
+unicode = 8550;
+}

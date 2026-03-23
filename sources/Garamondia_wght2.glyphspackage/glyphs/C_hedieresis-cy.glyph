@@ -1,0 +1,39 @@
+{
+glyphname = "Chedieresis-cy";
+kernLeft = uni0427;
+kernRight = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Che-cy";
+},
+{
+alignment = -1;
+pos = (637,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1329;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = "Che-cy";
+},
+{
+alignment = -1;
+pos = (695,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1405;
+}
+);
+note = uni04F4;
+unicode = 1268;
+}

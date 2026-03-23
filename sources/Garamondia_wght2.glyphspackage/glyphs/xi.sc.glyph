@@ -1,0 +1,26 @@
+{
+glyphname = xi.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Xi.sc;
+}
+);
+width = 980;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Xi.sc;
+}
+);
+width = 985;
+}
+);
+note = xi.sc;
+}

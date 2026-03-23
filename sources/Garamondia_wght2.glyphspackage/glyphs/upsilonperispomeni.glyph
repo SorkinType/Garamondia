@@ -1,0 +1,37 @@
+{
+glyphname = upsilonperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (439,-12);
+ref = tildecomb.stack;
+}
+);
+width = 851;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (467,13);
+ref = tildecomb.stack;
+}
+);
+width = 895;
+}
+);
+note = uni1FE6;
+unicode = 8166;
+}

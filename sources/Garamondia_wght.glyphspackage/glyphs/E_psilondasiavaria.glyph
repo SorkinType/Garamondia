@@ -1,0 +1,36 @@
+{
+glyphname = Epsilondasiavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (427,0);
+ref = E;
+},
+{
+alignment = -1;
+pos = (-96,47);
+ref = dasiavaria;
+}
+);
+width = 1533;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1451,0);
+ref = dasiavaria;
+}
+);
+width = 2170;
+}
+);
+note = uni1F1B;
+unicode = 7963;
+}

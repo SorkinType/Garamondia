@@ -1,0 +1,22 @@
+{
+glyphname = lowlinecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-1303);
+ref = overlinecomb;
+}
+);
+width = 0;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 0;
+}
+);
+note = uni0332;
+unicode = 818;
+}

@@ -1,0 +1,51 @@
+{
+glyphname = Zacute;
+kernRight = Z;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (344,428);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (706,0);
+ref = acutecomb.cap;
+}
+);
+width = 1344;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Z;
+},
+{
+alignment = -1;
+pos = (727,0);
+ref = acutecomb.cap;
+}
+);
+width = 1365;
+}
+);
+note = Zacute;
+unicode = 377;
+}

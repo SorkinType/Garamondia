@@ -1,0 +1,26 @@
+{
+glyphname = doubleprimeReversed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = primeReversed;
+},
+{
+alignment = -1;
+pos = (270,0);
+ref = primeReversed;
+}
+);
+width = 619;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 634;
+}
+);
+note = uni2036;
+unicode = 8246;
+}

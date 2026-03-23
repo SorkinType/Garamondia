@@ -1,0 +1,35 @@
+{
+glyphname = seven_period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = seven.osf;
+},
+{
+alignment = -1;
+pos = (902,0);
+ref = period;
+}
+);
+width = 1352;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = seven.osf;
+},
+{
+pos = (843,0);
+ref = period;
+}
+);
+width = 1335;
+}
+);
+note = uni248E;
+unicode = 9358;
+}

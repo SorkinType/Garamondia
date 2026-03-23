@@ -1,0 +1,49 @@
+{
+glyphname = scarondotaccent;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+alignment = -1;
+pos = (349,0);
+ref = caroncomb.stack;
+},
+{
+alignment = -1;
+pos = (155,247);
+ref = dotaccent;
+}
+);
+width = 633;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = s;
+},
+{
+alignment = -1;
+pos = (361,0);
+ref = caroncomb.stack;
+},
+{
+alignment = -1;
+pos = (603,88);
+ref = dotaccent;
+}
+);
+width = 1213;
+}
+);
+note = uni1E67;
+unicode = 7783;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = emacronacute;
+kernLeft = c;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (412,0);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (496,247);
+ref = acutecomb.stack;
+}
+);
+width = 764;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (410,6);
+ref = macroncomb;
+},
+{
+pos = (513,306);
+ref = acutecomb.stack;
+}
+);
+width = 829;
+}
+);
+note = uni1E17;
+unicode = 7703;
+}

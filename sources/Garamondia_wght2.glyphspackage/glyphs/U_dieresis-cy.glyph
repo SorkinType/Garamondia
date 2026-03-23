@@ -1,0 +1,39 @@
+{
+glyphname = "Udieresis-cy";
+kernLeft = uni0423;
+kernRight = V;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+alignment = -1;
+pos = (623,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1248;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = "U-cy";
+},
+{
+alignment = -1;
+pos = (704,0);
+ref = dieresiscomb.case;
+}
+);
+width = 1303;
+}
+);
+note = uni04F0;
+unicode = 1264;
+}

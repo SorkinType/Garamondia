@@ -1,0 +1,37 @@
+{
+glyphname = "Kje-cy";
+kernLeft = B;
+kernRight = uni0416;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Ka-cy";
+},
+{
+alignment = -1;
+pos = (804,0);
+ref = acutecomb.cap;
+}
+);
+width = 1351;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Ka-cy";
+},
+{
+pos = (858,0);
+ref = acutecomb.cap;
+}
+);
+width = 1447;
+}
+);
+note = uni040C;
+unicode = 1036;
+}

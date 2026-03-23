@@ -1,0 +1,35 @@
+{
+glyphname = etapsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = eta;
+},
+{
+alignment = -1;
+pos = (239,0);
+ref = psili;
+}
+);
+width = 902;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (1039,0);
+ref = psili;
+}
+);
+width = 1519;
+}
+);
+note = uni1F20;
+unicode = 7968;
+}

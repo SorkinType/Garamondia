@@ -1,0 +1,48 @@
+{
+glyphname = Ygrave;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (272,424);
+ref = grave;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (631,490);
+ref = gravecomb;
+}
+);
+width = 1344;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (359,477);
+ref = gravecomb;
+}
+);
+width = 1344;
+}
+);
+note = Ygrave;
+unicode = 7922;
+}

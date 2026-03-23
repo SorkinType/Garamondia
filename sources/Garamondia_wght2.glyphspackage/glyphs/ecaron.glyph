@@ -1,0 +1,52 @@
+{
+glyphname = ecaron;
+kernLeft = c;
+kernRight = ae;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (99,0);
+ref = caron;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (435,0);
+ref = caroncomb;
+}
+);
+width = 853;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (455,0);
+ref = caroncomb;
+}
+);
+width = 960;
+}
+);
+note = ecaron;
+unicode = 283;
+}

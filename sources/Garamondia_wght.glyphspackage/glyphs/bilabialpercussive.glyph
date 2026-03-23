@@ -1,0 +1,36 @@
+{
+glyphname = bilabialpercussive;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-562);
+ref = w.ordn;
+},
+{
+alignment = -1;
+pos = (0,-8);
+ref = w.ordn;
+}
+);
+width = 925;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = w.ordn;
+},
+{
+pos = (1086,0);
+ref = w.ordn;
+}
+);
+width = 2172;
+}
+);
+note = uni02AC;
+unicode = 684;
+}

@@ -1,0 +1,28 @@
+{
+glyphname = seven.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-10);
+ref = seven.ordn;
+}
+);
+width = 588;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (0,-10);
+ref = seven.ordn;
+}
+);
+width = 600;
+}
+);
+note = seven.numr;
+}

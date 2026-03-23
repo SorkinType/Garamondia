@@ -1,0 +1,35 @@
+{
+glyphname = servicemark;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S.ordn;
+},
+{
+alignment = -1;
+pos = (535,0);
+ref = M.ordn;
+}
+);
+width = 1772;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = S.ordn;
+},
+{
+pos = (764,0);
+ref = M.ordn;
+}
+);
+width = 2120;
+}
+);
+note = uni2120;
+unicode = 8480;
+}

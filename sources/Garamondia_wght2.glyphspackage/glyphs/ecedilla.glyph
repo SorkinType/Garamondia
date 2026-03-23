@@ -1,0 +1,39 @@
+{
+glyphname = ecedilla;
+kernLeft = c;
+kernRight = ae;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (402,0);
+ref = cedillacomb;
+}
+);
+width = 764;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (396,0);
+ref = cedillacomb;
+}
+);
+width = 806;
+}
+);
+note = uni0229;
+unicode = 553;
+}

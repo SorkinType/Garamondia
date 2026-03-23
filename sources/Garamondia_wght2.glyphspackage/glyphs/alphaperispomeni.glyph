@@ -1,0 +1,37 @@
+{
+glyphname = alphaperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (480,-12);
+ref = tildecomb.stack;
+}
+);
+width = 886;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (493,13);
+ref = tildecomb.stack;
+}
+);
+width = 974;
+}
+);
+note = uni1FB6;
+unicode = 8118;
+}

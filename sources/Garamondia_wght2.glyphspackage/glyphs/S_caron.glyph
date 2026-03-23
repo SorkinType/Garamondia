@@ -1,0 +1,50 @@
+{
+glyphname = Scaron;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (149,429);
+ref = caron;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (527,0);
+ref = caroncomb.case;
+}
+);
+width = 981;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (212,477);
+ref = caroncomb.case;
+}
+);
+width = 1045;
+}
+);
+note = Scaron;
+unicode = 352;
+}

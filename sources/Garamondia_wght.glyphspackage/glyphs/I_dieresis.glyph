@@ -1,0 +1,50 @@
+{
+glyphname = Idieresis;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-10,350);
+ref = dieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (333,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 725;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (370,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 811;
+}
+);
+note = Idieresis;
+unicode = 207;
+}

@@ -1,0 +1,27 @@
+{
+glyphname = cedilla.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (249,0);
+ref = cedillacomb;
+}
+);
+width = 494;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (239,0);
+ref = cedillacomb;
+}
+);
+width = 480;
+}
+);
+note = cedilla.sc;
+}

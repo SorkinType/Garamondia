@@ -1,0 +1,36 @@
+{
+glyphname = Aacute.sc;
+kernLeft = A.sc;
+kernRight = A.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A.sc;
+},
+{
+alignment = -1;
+pos = (621,123);
+ref = acutecomb;
+}
+);
+width = 1066;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = A.sc;
+},
+{
+pos = (657,123);
+ref = acutecomb;
+}
+);
+width = 1197;
+}
+);
+note = Aacute.sc;
+}

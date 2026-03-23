@@ -1,0 +1,49 @@
+{
+glyphname = cadauna;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (16,239);
+ref = c.ordn;
+},
+{
+alignment = -1;
+pos = (482,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (727,-551);
+ref = u.ordn;
+}
+);
+width = 1464;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (6,86);
+ref = c.ordn;
+},
+{
+alignment = -1;
+pos = (596,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (944,-197);
+ref = u.ordn;
+}
+);
+width = 1729;
+}
+);
+note = uni2106;
+unicode = 8454;
+}

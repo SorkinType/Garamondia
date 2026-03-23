@@ -1,0 +1,34 @@
+{
+glyphname = tildebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-2,-59);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-24,-1295);
+ref = tildecomb;
+}
+);
+width = 0;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (-47,-1339);
+ref = tildecomb;
+}
+);
+width = 0;
+}
+);
+note = uni0330;
+unicode = 816;
+}

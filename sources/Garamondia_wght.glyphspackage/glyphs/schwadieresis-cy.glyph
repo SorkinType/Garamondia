@@ -1,0 +1,37 @@
+{
+glyphname = "schwadieresis-cy";
+kernLeft = uni0259;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "schwa-cy";
+},
+{
+alignment = -1;
+pos = (388,37);
+ref = dieresiscomb;
+}
+);
+width = 788;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "schwa-cy";
+},
+{
+pos = (425,0);
+ref = dieresiscomb;
+}
+);
+width = 829;
+}
+);
+note = uni04DB;
+unicode = 1243;
+}

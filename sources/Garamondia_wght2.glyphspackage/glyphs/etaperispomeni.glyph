@@ -1,0 +1,37 @@
+{
+glyphname = etaperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = eta;
+},
+{
+alignment = -1;
+pos = (461,-12);
+ref = tildecomb.stack;
+}
+);
+width = 902;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = eta;
+},
+{
+alignment = -1;
+pos = (498,13);
+ref = tildecomb.stack;
+}
+);
+width = 991;
+}
+);
+note = uni1FC6;
+unicode = 8134;
+}

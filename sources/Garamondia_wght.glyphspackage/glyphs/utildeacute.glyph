@@ -1,0 +1,46 @@
+{
+glyphname = utildeacute;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (512,0);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (580,296);
+ref = acutecomb.stack;
+}
+);
+width = 1033;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (564,0);
+ref = tildecomb.stack;
+},
+{
+pos = (590,304);
+ref = acutecomb.stack;
+}
+);
+width = 1090;
+}
+);
+note = uni1E79;
+unicode = 7801;
+}

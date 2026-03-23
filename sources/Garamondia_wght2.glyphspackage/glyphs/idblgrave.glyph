@@ -1,0 +1,39 @@
+{
+glyphname = idblgrave;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (151,0);
+ref = dblgravecomb;
+}
+);
+width = 480;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (164,0);
+ref = dblgravecomb;
+}
+);
+width = 557;
+}
+);
+note = uni0209;
+unicode = 521;
+}

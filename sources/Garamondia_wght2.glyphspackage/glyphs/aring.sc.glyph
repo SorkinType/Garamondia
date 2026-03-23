@@ -1,0 +1,38 @@
+{
+glyphname = aring.sc;
+kernLeft = A.sc;
+kernRight = A.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A.sc;
+},
+{
+alignment = -1;
+pos = (535,123);
+ref = ringcomb;
+}
+);
+width = 1066;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = A.sc;
+},
+{
+alignment = -1;
+pos = (582,123);
+ref = ringcomb;
+}
+);
+width = 1150;
+}
+);
+note = aring.sc;
+}

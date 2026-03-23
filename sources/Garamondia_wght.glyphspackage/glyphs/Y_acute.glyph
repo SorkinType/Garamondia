@@ -1,0 +1,50 @@
+{
+glyphname = Yacute;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (351,422);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (715,0);
+ref = acutecomb.cap;
+}
+);
+width = 1344;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (856,0);
+ref = acutecomb.cap;
+}
+);
+width = 1344;
+}
+);
+note = Yacute;
+unicode = 221;
+}

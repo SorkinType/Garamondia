@@ -1,0 +1,36 @@
+{
+glyphname = Iotadasiavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (427,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiavaria;
+}
+);
+width = 1094;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (811,0);
+ref = dasiavaria;
+}
+);
+width = 1530;
+}
+);
+note = uni1F3B;
+unicode = 7995;
+}

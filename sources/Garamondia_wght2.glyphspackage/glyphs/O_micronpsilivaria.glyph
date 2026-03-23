@@ -1,0 +1,27 @@
+{
+glyphname = Omicronpsilivaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (347,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psilivaria;
+}
+);
+width = 1842;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 2162;
+}
+);
+note = uni1F4A;
+unicode = 8010;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = schwamod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,884);
+ref = schwainferior;
+}
+);
+width = 512;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 575;
+}
+);
+note = uni1D4A;
+unicode = 7498;
+}

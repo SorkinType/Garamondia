@@ -1,0 +1,34 @@
+{
+glyphname = Rho;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = P;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = P;
+}
+);
+width = 1152;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = P;
+}
+);
+width = 1259;
+}
+);
+note = Rho;
+unicode = 929;
+}

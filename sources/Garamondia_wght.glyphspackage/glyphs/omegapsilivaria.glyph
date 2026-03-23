@@ -1,0 +1,35 @@
+{
+glyphname = omegapsilivaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = omega;
+},
+{
+alignment = -1;
+pos = (276,0);
+ref = psilivaria;
+}
+);
+width = 1101;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (1301,0);
+ref = psilivaria;
+}
+);
+width = 2020;
+}
+);
+note = uni1F62;
+unicode = 8034;
+}

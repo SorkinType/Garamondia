@@ -1,0 +1,29 @@
+{
+glyphname = "Dzeabkhasian-cy";
+kernLeft = uni0186;
+kernRight = uni01B7;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Ezh;
+}
+);
+width = 1009;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Ezh;
+}
+);
+width = 1064;
+}
+);
+note = uni04E0;
+unicode = 1248;
+}

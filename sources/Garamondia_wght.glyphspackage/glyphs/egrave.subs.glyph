@@ -1,0 +1,38 @@
+{
+glyphname = egrave.subs;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-553);
+ref = e.ordn;
+},
+{
+alignment = -1;
+pos = (12,-553);
+ref = grave.ordn;
+}
+);
+width = 515;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+alignment = -1;
+pos = (0,-553);
+ref = e.ordn;
+},
+{
+alignment = -1;
+pos = (12,-553);
+ref = grave.ordn;
+}
+);
+width = 515;
+}
+);
+note = egrave.subs;
+}

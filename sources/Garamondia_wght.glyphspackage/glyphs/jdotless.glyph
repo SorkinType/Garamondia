@@ -1,0 +1,28 @@
+{
+color = 3;
+glyphname = jdotless;
+kernLeft = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = j.dotless;
+}
+);
+width = 443;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = j.dotless;
+}
+);
+width = 539;
+}
+);
+note = uni0237;
+unicode = 567;
+}

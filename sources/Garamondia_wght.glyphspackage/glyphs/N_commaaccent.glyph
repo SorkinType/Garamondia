@@ -1,0 +1,37 @@
+{
+glyphname = Ncommaaccent;
+kernLeft = B;
+kernRight = N;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (794,0);
+ref = commaaccentcomb;
+}
+);
+width = 1579;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (788,0);
+ref = commaaccentcomb;
+}
+);
+width = 1728;
+}
+);
+note = uni0145;
+unicode = 325;
+}

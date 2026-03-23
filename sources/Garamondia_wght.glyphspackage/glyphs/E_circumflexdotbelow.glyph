@@ -1,0 +1,46 @@
+{
+glyphname = Ecircumflexdotbelow;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (582,0);
+ref = circumflexcomb.cap;
+},
+{
+alignment = -1;
+pos = (572,-1764);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1105;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (584,0);
+ref = circumflexcomb.cap;
+},
+{
+pos = (580,-1791);
+ref = dotaccentcomb.cap;
+}
+);
+width = 1131;
+}
+);
+note = uni1EC6;
+unicode = 7878;
+}

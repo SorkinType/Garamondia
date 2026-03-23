@@ -1,0 +1,47 @@
+{
+glyphname = upsilonpsiliperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (421,251);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (415,-39);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 851;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = upsilon;
+},
+{
+alignment = -1;
+pos = (474,322);
+ref = tildecomb.stack;
+},
+{
+alignment = -1;
+pos = (467,5);
+ref = commaabovecomb.grkstack;
+}
+);
+width = 895;
+}
+);
+note = uni1F56;
+unicode = 8022;
+}

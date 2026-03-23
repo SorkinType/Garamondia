@@ -1,0 +1,26 @@
+{
+glyphname = "ten-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 843;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = x;
+}
+);
+width = 1024;
+}
+);
+note = uni2179;
+unicode = 8569;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = aeacute;
+kernLeft = a;
+kernRight = ae;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = ae;
+},
+{
+alignment = -1;
+pos = (270,0);
+ref = acute;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ae;
+},
+{
+alignment = -1;
+pos = (682,0);
+ref = acutecomb;
+}
+);
+width = 1195;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (772,0);
+ref = acutecomb;
+}
+);
+width = 1429;
+}
+);
+note = aeacute;
+unicode = 509;
+}

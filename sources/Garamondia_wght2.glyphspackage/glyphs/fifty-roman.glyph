@@ -1,0 +1,27 @@
+{
+glyphname = "fifty-roman";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = l;
+}
+);
+width = 470;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = l;
+}
+);
+width = 510;
+}
+);
+note = uni217C;
+unicode = 8572;
+}

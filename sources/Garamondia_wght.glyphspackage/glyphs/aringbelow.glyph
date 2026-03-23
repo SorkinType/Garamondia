@@ -1,0 +1,37 @@
+{
+glyphname = aringbelow;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (378,-1397);
+ref = ringcomb;
+}
+);
+width = 782;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (388,-1458);
+ref = ringcomb;
+}
+);
+width = 876;
+}
+);
+note = uni1E01;
+unicode = 7681;
+}

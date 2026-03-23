@@ -1,0 +1,39 @@
+{
+glyphname = Omicronvaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (104,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (33,47);
+ref = gravecomb.grk;
+}
+);
+width = 1599;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (37,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (73,-29);
+ref = gravecomb.grk;
+}
+);
+width = 1697;
+}
+);
+note = uni1FF8;
+unicode = 8184;
+}

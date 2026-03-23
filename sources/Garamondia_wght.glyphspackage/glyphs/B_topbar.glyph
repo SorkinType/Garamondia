@@ -1,0 +1,27 @@
+{
+glyphname = Btopbar;
+kernLeft = B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "Be-cy";
+}
+);
+width = 1150;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "Be-cy";
+}
+);
+width = 1387;
+}
+);
+note = uni0182;
+unicode = 386;
+}

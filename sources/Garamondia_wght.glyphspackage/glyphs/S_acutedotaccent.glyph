@@ -1,0 +1,46 @@
+{
+glyphname = Sacutedotaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (600,380);
+ref = acutecomb.flat;
+},
+{
+alignment = -1;
+pos = (347,123);
+ref = dotaccentcomb.cap;
+}
+);
+width = 911;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (615,390);
+ref = acutecomb.flat;
+},
+{
+pos = (349,159);
+ref = dotaccentcomb.cap;
+}
+);
+width = 960;
+}
+);
+note = uni1E64;
+unicode = 7780;
+}

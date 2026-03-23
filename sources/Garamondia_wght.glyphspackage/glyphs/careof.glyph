@@ -1,0 +1,45 @@
+{
+glyphname = careof;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (16,241);
+ref = c.ordn;
+},
+{
+alignment = -1;
+pos = (482,-2);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (574,-547);
+ref = o.ordn;
+}
+);
+width = 1625;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = c.ordn;
+},
+{
+pos = (660,0);
+ref = fraction;
+},
+{
+pos = (1065,0);
+ref = o.ordn;
+}
+);
+width = 1841;
+}
+);
+note = uni2105;
+unicode = 8453;
+}

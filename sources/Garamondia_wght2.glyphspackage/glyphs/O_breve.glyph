@@ -1,0 +1,48 @@
+{
+glyphname = Obreve;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (420,464);
+ref = breve;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (532,0);
+ref = brevecomb.case;
+}
+);
+width = 1600;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (530,0);
+ref = brevecomb.case;
+}
+);
+width = 1621;
+}
+);
+note = Obreve;
+unicode = 334;
+}

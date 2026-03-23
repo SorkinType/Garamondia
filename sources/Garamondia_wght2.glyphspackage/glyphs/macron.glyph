@@ -1,0 +1,53 @@
+{
+glyphname = macron;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(409,1091,qs),
+(432,1091,o),
+(632,1094,q),
+(634,1124,o),
+(634,1139,qs),
+(634,1154,o),
+(632,1185,q),
+(335,1180,o),
+(224,1180,qs),
+(98,1185,l),
+(97,1154,o),
+(97,1139,qs),
+(97,1124,o),
+(98,1094,q),
+(159,1091,o)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (294,20);
+ref = macroncomb;
+}
+);
+width = 683;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (336,23);
+ref = macroncomb;
+}
+);
+width = 683;
+}
+);
+note = macron;
+unicode = 175;
+}

@@ -1,0 +1,37 @@
+{
+glyphname = dblverticallineabovecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-86,0);
+ref = verticallineabovecomb;
+},
+{
+alignment = -1;
+pos = (86,0);
+ref = verticallineabovecomb;
+}
+);
+width = 0;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (-86,0);
+ref = verticallineabovecomb;
+},
+{
+pos = (90,0);
+ref = verticallineabovecomb;
+}
+);
+width = 0;
+}
+);
+note = uni030E;
+unicode = 782;
+}

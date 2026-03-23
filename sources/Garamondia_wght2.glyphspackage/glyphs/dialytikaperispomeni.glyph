@@ -1,0 +1,27 @@
+{
+glyphname = dialytikaperispomeni;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (294,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (302,300);
+ref = tildecomb.stack;
+}
+);
+width = 588;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 588;
+}
+);
+note = uni1FC1;
+unicode = 8129;
+}

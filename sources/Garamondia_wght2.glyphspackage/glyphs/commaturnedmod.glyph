@@ -1,0 +1,22 @@
+{
+glyphname = commaturnedmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (196,0);
+ref = commaturnedabovecomb;
+}
+);
+width = 392;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 449;
+}
+);
+note = uni02BB;
+unicode = 699;
+}

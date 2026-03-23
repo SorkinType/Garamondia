@@ -1,0 +1,37 @@
+{
+glyphname = iotapsilivaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-71,0);
+ref = psilivaria;
+}
+);
+width = 466;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (285,0);
+ref = psilivaria;
+}
+);
+width = 939;
+}
+);
+note = uni1F32;
+unicode = 7986;
+}

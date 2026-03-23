@@ -1,0 +1,28 @@
+{
+glyphname = "Ustraight-cy";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+}
+);
+width = 1133;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = Y;
+}
+);
+width = 1344;
+}
+);
+note = uni04AE;
+unicode = 1198;
+}

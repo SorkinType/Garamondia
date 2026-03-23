@@ -1,0 +1,27 @@
+{
+glyphname = umod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-14);
+ref = u.ordn;
+}
+);
+width = 737;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u.ordn;
+}
+);
+width = 811;
+}
+);
+note = uni1D58;
+unicode = 7512;
+}

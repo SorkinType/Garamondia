@@ -1,0 +1,14 @@
+{
+glyphname = K.subs;
+layers = (
+{
+layerId = m01;
+width = 962;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1101;
+}
+);
+note = K.subs;
+}

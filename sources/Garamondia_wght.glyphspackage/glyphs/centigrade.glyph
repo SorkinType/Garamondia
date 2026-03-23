@@ -1,0 +1,35 @@
+{
+glyphname = centigrade;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = degree;
+},
+{
+alignment = -1;
+pos = (463,0);
+ref = C;
+}
+);
+width = 1854;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = degree;
+},
+{
+pos = (623,0);
+ref = C;
+}
+);
+width = 2013;
+}
+);
+note = uni2103;
+unicode = 8451;
+}

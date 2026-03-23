@@ -1,0 +1,39 @@
+{
+glyphname = ytilde;
+kernLeft = uni01B4;
+kernRight = uni0233;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (464,0);
+ref = tildecomb;
+}
+);
+width = 858;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (520,0);
+ref = tildecomb;
+}
+);
+width = 925;
+}
+);
+note = uni1EF9;
+unicode = 7929;
+}

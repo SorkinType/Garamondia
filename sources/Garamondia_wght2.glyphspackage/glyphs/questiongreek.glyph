@@ -1,0 +1,39 @@
+{
+glyphname = questiongreek;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-24,543);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-4,0);
+ref = comma;
+}
+);
+width = 447;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (-21,543);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1,0);
+ref = comma;
+}
+);
+width = 476;
+}
+);
+note = uni037E;
+unicode = 894;
+}

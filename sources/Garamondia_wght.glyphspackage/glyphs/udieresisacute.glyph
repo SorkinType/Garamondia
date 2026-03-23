@@ -1,0 +1,46 @@
+{
+glyphname = udieresisacute;
+kernLeft = u;
+kernRight = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (484,8);
+ref = dieresiscomb;
+},
+{
+alignment = -1;
+pos = (574,261);
+ref = acutecomb.stack;
+}
+);
+width = 1033;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (535,-24);
+ref = dieresiscomb;
+},
+{
+pos = (645,347);
+ref = acutecomb.stack;
+}
+);
+width = 1090;
+}
+);
+note = uni01D8;
+unicode = 472;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = odotbelow;
+kernLeft = c;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (286,-1388);
+ref = dotaccent;
+}
+);
+width = 970;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (787,-497);
+ref = dotaccent;
+}
+);
+width = 1471;
+}
+);
+note = uni1ECD;
+unicode = 7885;
+}

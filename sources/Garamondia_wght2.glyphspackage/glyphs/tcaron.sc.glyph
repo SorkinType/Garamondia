@@ -1,0 +1,38 @@
+{
+glyphname = tcaron.sc;
+kernLeft = T.sc;
+kernRight = T.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = T.sc;
+},
+{
+alignment = -1;
+pos = (510,165);
+ref = caroncomb;
+}
+);
+width = 1039;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = T.sc;
+},
+{
+alignment = -1;
+pos = (543,165);
+ref = caroncomb;
+}
+);
+width = 1076;
+}
+);
+note = tcaron.sc;
+}

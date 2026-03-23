@@ -1,0 +1,27 @@
+{
+glyphname = Omicrondasiavaria;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (341,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = dasiavaria;
+}
+);
+width = 1836;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 2160;
+}
+);
+note = uni1F4B;
+unicode = 8011;
+}

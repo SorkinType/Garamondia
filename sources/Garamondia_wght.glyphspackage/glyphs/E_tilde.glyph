@@ -1,0 +1,37 @@
+{
+glyphname = Etilde;
+kernLeft = B;
+kernRight = AE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (619,0);
+ref = tildecomb.cap;
+}
+);
+width = 1105;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (588,0);
+ref = tildecomb.cap;
+}
+);
+width = 1131;
+}
+);
+note = uni1EBC;
+unicode = 7868;
+}

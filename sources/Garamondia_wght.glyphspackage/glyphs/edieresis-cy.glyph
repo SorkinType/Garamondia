@@ -1,0 +1,37 @@
+{
+glyphname = "edieresis-cy";
+kernLeft = uni0437;
+kernRight = uni1EFC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = "ereversed-cy";
+},
+{
+alignment = -1;
+pos = (365,37);
+ref = dieresiscomb;
+}
+);
+width = 800;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = "ereversed-cy";
+},
+{
+pos = (394,0);
+ref = dieresiscomb;
+}
+);
+width = 837;
+}
+);
+note = uni04ED;
+unicode = 1261;
+}

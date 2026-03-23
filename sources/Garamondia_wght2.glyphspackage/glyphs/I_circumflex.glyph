@@ -1,0 +1,48 @@
+{
+glyphname = Icircumflex;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (0,429);
+ref = circumflex;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (342,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 725;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (95,0);
+ref = circumflexcomb.cap;
+}
+);
+width = 811;
+}
+);
+note = Icircumflex;
+unicode = 206;
+}

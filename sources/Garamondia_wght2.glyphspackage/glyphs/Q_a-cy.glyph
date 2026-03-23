@@ -1,0 +1,29 @@
+{
+glyphname = "Qa-cy";
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Q;
+}
+);
+width = 1495;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = Q;
+}
+);
+width = 1576;
+}
+);
+note = uni051A;
+unicode = 1306;
+}

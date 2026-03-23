@@ -1,0 +1,36 @@
+{
+glyphname = Iotapsili;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (192,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-98,47);
+ref = psili;
+}
+);
+width = 858;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (811,0);
+ref = psili;
+}
+);
+width = 1291;
+}
+);
+note = uni1F38;
+unicode = 7992;
+}

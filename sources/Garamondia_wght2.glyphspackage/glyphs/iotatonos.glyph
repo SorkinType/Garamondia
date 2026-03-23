@@ -1,0 +1,50 @@
+{
+glyphname = iotatonos;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-127,0);
+ref = tonos;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (102,0);
+ref = tonos;
+}
+);
+width = 468;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = iota;
+},
+{
+alignment = -1;
+pos = (347,0);
+ref = tonos;
+}
+);
+width = 484;
+}
+);
+note = iotatonos;
+unicode = 943;
+}

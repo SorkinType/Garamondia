@@ -1,0 +1,36 @@
+{
+glyphname = doublequestion;
+kernLeft = question;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = question;
+},
+{
+alignment = -1;
+pos = (559,0);
+ref = question;
+}
+);
+width = 1295;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = question;
+},
+{
+pos = (592,0);
+ref = question;
+}
+);
+width = 1374;
+}
+);
+note = uni2047;
+unicode = 8263;
+}

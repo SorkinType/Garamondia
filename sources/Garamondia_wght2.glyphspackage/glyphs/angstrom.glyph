@@ -1,0 +1,26 @@
+{
+glyphname = angstrom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (700,0);
+ref = ringcomb.cap;
+}
+);
+width = 1356;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+width = 1399;
+}
+);
+note = uni212B;
+unicode = 8491;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = anoteleia;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,725,o),
+(117,692,qs),
+(117,633,o),
+(174,568,o),
+(219,568,qs),
+(277,568,o),
+(331,647,o),
+(331,685,qs),
+(331,727,o),
+(265,794,o),
+(221,794,qs),
+(176,794,o)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-29,319);
+ref = period;
+}
+);
+width = 448;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+pos = (-23,317);
+ref = period;
+}
+);
+width = 533;
+}
+);
+note = anoteleia;
+unicode = 903;
+}

@@ -1,0 +1,28 @@
+{
+glyphname = tinferior;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,-831);
+ref = t.ordn;
+}
+);
+width = 449;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+pos = (0,-831);
+ref = t.ordn;
+}
+);
+width = 588;
+}
+);
+note = uni209C;
+unicode = 8348;
+}

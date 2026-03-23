@@ -1,0 +1,29 @@
+{
+glyphname = "aie-cy";
+kernLeft = a;
+kernRight = ae;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = ae;
+}
+);
+width = 1092;
+},
+{
+layerId = "088BD936-56BA-4CBD-9590-2DD048370D9B";
+shapes = (
+{
+alignment = -1;
+ref = ae;
+}
+);
+width = 1308;
+}
+);
+note = uni04D5;
+unicode = 1237;
+}

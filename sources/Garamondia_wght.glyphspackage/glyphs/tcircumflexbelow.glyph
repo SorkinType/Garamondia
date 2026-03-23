@@ -1,0 +1,36 @@
+{
+glyphname = tcircumflexbelow;
+kernLeft = t;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+alignment = -1;
+pos = (368,-1384);
+ref = circumflexcomb;
+}
+);
+width = 615;
+},
+{
+layerId = "9613C2D5-9CC0-4B03-8E94-AFF45D3AC865";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (443,-1390);
+ref = circumflexcomb;
+}
+);
+width = 760;
+}
+);
+note = uni1E71;
+unicode = 7793;
+}
